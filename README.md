@@ -1,4 +1,4 @@
-![image](https://github.com/WangRongsheng/awesome-LLM-resourses/assets/55651568/4225df1c-8039-4881-940a-c9bc0f977021)![](./assets/logo2.png)
+![](./assets/logo2.png)
 
 <p align="center">全世界最好的中文大语言模型资源汇总 持续更新</p>
 
