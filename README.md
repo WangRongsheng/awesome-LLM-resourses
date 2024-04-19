@@ -23,6 +23,7 @@
 4. [Xinference](https://github.com/xorbitsai/inference): A powerful and versatile library designed to serve language, speech recognition, and multimodal models.
 5. [LangChain](https://github.com/langchain-ai/langchain): Build context-aware reasoning applications.
 6. [LlamaIndex](https://github.com/run-llama/llama_index): A data framework for your LLM applications.
+7. [lobe-chat](https://github.com/lobehub/lobe-chat): an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers, Multi-Modals (Vision/TTS) and plugin system.
 
 ## RAG
 
