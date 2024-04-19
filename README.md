@@ -1,5 +1,7 @@
 ![](./assets/logo2.png)
 
+<center><p>全世界最好的中文大语言模型资源汇总</p></center>
+
 ## 微调
 
 1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
