@@ -4,6 +4,7 @@
 
 1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
 2. [unsloth](https://github.com/unslothai/unsloth): 2-5X faster 80% less memory LLM finetuning.
+3. [TRL](https://huggingface.co/docs/trl/index): Transformer Reinforcement Learning
 
 ## 书籍
 
