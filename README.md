@@ -1,6 +1,7 @@
 ![](./assets/logo2.png)
 
-<center><p>全世界最好的中文大语言模型资源汇总</p></center>
+<p align="center">全世界最好的中文大语言模型资源汇总 持续更新</p>
+
 
 ## 微调
 
