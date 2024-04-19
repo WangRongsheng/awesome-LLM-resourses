@@ -1,4 +1,4 @@
-![](./assets/logo.png)
+![](./assets/logo2.png)
 
 ## 微调
 
