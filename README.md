@@ -74,6 +74,14 @@
 6. [B站：漆妮妮](https://space.bilibili.com/1262370256/?spm_id_from=333.999.0.0)
 7. [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
+<!--
+## 软件
+1. [POT](https://github.com/pot-app/pot-desktop)
+2. [Bob](https://github.com/ripperhe/Bob)
+3. [OpenAI Translator Bob Plugin](https://github.com/openai-translator/bob-plugin-openai-translator)
+4. [沉浸式翻译](https://immersivetranslate.com/)
+-->
+
 [![Forkers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/network/members)
 
 [![Stargazers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers)
