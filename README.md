@@ -66,7 +66,11 @@
 ## 教程
 
 1. [动手学大模型应用开发](https://datawhalechina.github.io/llm-universe/#/)
-2. [AI开发者频道](https://techdiylife.github.io/blog/blog_list.html)
+2. [B站：AI开发者频道](https://techdiylife.github.io/blog/blog_list.html)
+3. [B站：五里墩茶社](https://space.bilibili.com/615957867/?spm_id_from=333.999.0.0)
+4. [B站：木羽Cheney](https://space.bilibili.com/3537113897241540/?spm_id_from=333.999.0.0)
+5. [YTB：AI Anytime](https://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg)
+6. [B站：漆妮妮](https://space.bilibili.com/1262370256/?spm_id_from=333.999.0.0)
 
 [![Forkers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/network/members)
 
