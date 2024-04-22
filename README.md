@@ -16,6 +16,7 @@
 3. [TRL](https://huggingface.co/docs/trl/index): Transformer Reinforcement Learning.
 4. [Firefly](https://github.com/yangjianxin1/Firefly): Firefly: 大模型训练工具，支持训练数十种大模型
 5. [Xtuner](https://github.com/InternLM/xtuner): An efficient, flexible and full-featured toolkit for fine-tuning large models.
+6. [torchtune](https://github.com/pytorch/torchtune): A Native-PyTorch Library for LLM Fine-tuning.
 
 ## 推理
 
