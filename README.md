@@ -34,6 +34,7 @@
 12. [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs.
 13. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): Chat with your data natively on Apple Silicon using MLX Framework.
 14. [LLM Pricing](https://llmpricecheck.com/): Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool for Instant Access to the Latest Prices from Top Providers.
+15. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers.
 
 ## RAG
 
