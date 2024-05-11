@@ -40,6 +40,7 @@
 16. [Chat-ollama](https://github.com/sugarforever/chat-ollama): An open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 17. [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app.
 18. [MemGPT](https://github.com/cpacker/MemGPT): Create LLM agents with long-term memory and custom tools.
+19. [koboldcpp](https://github.com/LostRuins/koboldcpp): A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.
 
 ## RAG
 
