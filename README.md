@@ -95,6 +95,7 @@
 18. [Mistral: Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 19. [斯坦福 CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)
 20. [Coursera: Chatgpt 应用提示工程](https://www.coursera.org/learn/prompt-engineering)
+21. [LangGPT](https://github.com/langgptai/LangGPT): Empowering everyone to become a prompt expert!
 
 ## 教程
 
