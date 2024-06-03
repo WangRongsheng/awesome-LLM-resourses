@@ -24,6 +24,7 @@
 11. [mistral-finetune](https://github.com/mistralai/mistral-finetune): A light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models.
 12. [aikit](https://github.com/sozercan/aikit): Fine-tune, build, and deploy open-source LLMs easily!
 13. [H2O-LLMStudio](https://github.com/h2oai/h2o-llmstudio): H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs.
+14. [LitGPT](https://github.com/Lightning-AI/litgpt): Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 
 ## 推理
 
@@ -85,6 +86,7 @@
 2. [《大语言模型》](https://llmbook-zh.github.io/)
 3. [《动手学大模型Dive into LLMs》](https://github.com/Lordog/dive-into-llms)
 4. [《动手做AI Agent》](https://book.douban.com/subject/36884058/)
+5. [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch)
 
 ## 课程
 
