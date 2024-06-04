@@ -123,6 +123,11 @@
 6. [B站：漆妮妮](https://space.bilibili.com/1262370256/?spm_id_from=333.999.0.0)
 7. [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
+## Tips
+
+1. [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
+2. [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
+
 <!--
 ## 软件
 1. [POT](https://github.com/pot-app/pot-desktop)
