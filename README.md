@@ -79,6 +79,7 @@
 3. [Coze](https://www.coze.com/)
 4. [AgentGPT](https://github.com/reworkd/AgentGPT): Assemble, configure, and deploy autonomous AI Agents in your browser.
 5. [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving.
+6. [MobileAgent](https://github.com/X-PLUG/MobileAgent): The Powerful Mobile Device Operation Assistant Family.
 
 ## 书籍
 
