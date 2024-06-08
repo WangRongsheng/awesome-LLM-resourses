@@ -89,6 +89,7 @@
 3. [《动手学大模型Dive into LLMs》](https://github.com/Lordog/dive-into-llms)
 4. [《动手做AI Agent》](https://book.douban.com/subject/36884058/)
 5. [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch)
+6. [《多模态大模型》](https://github.com/HCPLab-SYSU/Book-of-MLM)
 
 ## 课程
 
