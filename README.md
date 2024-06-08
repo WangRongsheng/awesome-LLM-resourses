@@ -9,6 +9,12 @@
   <img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social >
  </div>   
 
+## 数据
+
+1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
+2. [LabelLLM](https://github.com/opendatalab/LabelLLM): The Open-Source Data Annotation Platform.
+3. [data-juicer](https://github.com/modelscope/data-juicer): A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!
+
 ## 微调
 
 1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
