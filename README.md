@@ -129,6 +129,7 @@
 20. [Coursera: Chatgpt 应用提示工程](https://www.coursera.org/learn/prompt-engineering)
 21. [LangGPT](https://github.com/langgptai/LangGPT): Empowering everyone to become a prompt expert!
 22. [mistralai-cookbook](https://github.com/mistralai/cookbook)
+23. [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 
 ## 教程
 
