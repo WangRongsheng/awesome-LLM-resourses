@@ -141,6 +141,7 @@
 5. [YTB：AI Anytime](https://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg)
 6. [B站：漆妮妮](https://space.bilibili.com/1262370256/?spm_id_from=333.999.0.0)
 7. [Prompt Engineering Guide](https://www.promptingguide.ai/)
+8. [YTB: AI超元域](https://www.youtube.com/@AIsuperdomain)
 
 ## Tips
 
