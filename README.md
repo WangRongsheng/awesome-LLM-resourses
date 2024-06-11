@@ -130,6 +130,7 @@
 21. [LangGPT](https://github.com/langgptai/LangGPT): Empowering everyone to become a prompt expert!
 22. [mistralai-cookbook](https://github.com/mistralai/cookbook)
 23. [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
+24. [build nanoGPT](https://github.com/karpathy/build-nanogpt): Video+code lecture on building nanoGPT from scratch.
 
 ## 教程
 
