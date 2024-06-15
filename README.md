@@ -34,6 +34,7 @@
 15. [LLMBox](https://github.com/RUCAIBox/LLMBox): A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 16. [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP): Easy-to-use and powerful NLP and LLM library.
 17. [workbench-llamafactory](https://github.com/NVIDIA/workbench-llamafactory): This is an NVIDIA AI Workbench example project that demonstrates an end-to-end model development workflow using Llamafactory.
+18. [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF): An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & Mixtral).
 
 ## 推理
 
