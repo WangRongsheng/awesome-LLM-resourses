@@ -112,6 +112,7 @@
 13. [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way.
 14. [MoA](https://github.com/togethercomputer/MoA): Mixture of Agents (MoA) is a novel approach that leverages the collective strengths of multiple LLMs to enhance performance, achieving state-of-the-art results.
 15. [Agently](https://github.com/Maplemx/Agently): AI Agent Application Development Framework.
+16. [OmAgent](https://github.com/om-ai-lab/OmAgent): A multimodal agent framework for solving complex tasks.
 
 ## 书籍
 
