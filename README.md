@@ -84,6 +84,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 4. [Huggingface Spaces](https://huggingface.co/spaces)
 5. [WiseModel Spaces](https://wisemodel.cn/spaces)
 6. [Poe](https://poe.com/)
+7. [林哥的大模型野榜](https://lyihub.com/)
 
 ## RAG
 
