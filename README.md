@@ -161,6 +161,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 24. [build nanoGPT](https://github.com/karpathy/build-nanogpt): Video+code lecture on building nanoGPT from scratch.
 25. [LLM101n](https://github.com/karpathy/LLM101n): Let's build a Storyteller.
+26. [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
 ## 教程
 
