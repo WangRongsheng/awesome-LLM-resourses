@@ -162,6 +162,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [build nanoGPT](https://github.com/karpathy/build-nanogpt): Video+code lecture on building nanoGPT from scratch.
 25. [LLM101n](https://github.com/karpathy/LLM101n): Let's build a Storyteller.
 26. [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
+27. [LLMs From Scratch (Datawhale Version)](https://github.com/datawhalechina/llms-from-scratch-cn)
 
 ## 教程
 
@@ -173,12 +174,16 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. [B站：漆妮妮](https://space.bilibili.com/1262370256/?spm_id_from=333.999.0.0)
 7. [Prompt Engineering Guide](https://www.promptingguide.ai/)
 8. [YTB: AI超元域](https://www.youtube.com/@AIsuperdomain)
+9. [B站：TechBeat人工智能社区](https://space.bilibili.com/209732435)
+10. [B站：黄益贺](https://space.bilibili.com/322961825)
+11. [B站：深度学习自然语言处理](https://space.bilibili.com/507524288)
 
 ## Tips
 
 1. [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 2. [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
 3. [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
+4. [轻松入门大语言模型（LLM）](https://www.bilibili.com/video/BV1pF4m1V7FB/?spm_id_from=333.999.0.0&vd_source=c739db1ebdd361d47af5a0b8497417db)
 
 <!--
 ## 软件
