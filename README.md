@@ -123,6 +123,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [OmAgent](https://github.com/om-ai-lab/OmAgent): A multimodal agent framework for solving complex tasks.
 17. [Tribe](https://github.com/StreetLamb/tribe): No code tool to rapidly build and coordinate multi-agent teams.
 18. [CAMEL](https://github.com/camel-ai/camel): Finding the Scaling Law of Agents. A multi-agent framework.
+19. [PraisonAI](https://github.com/MervinPraison/PraisonAI/): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 
 ## 书籍
 
