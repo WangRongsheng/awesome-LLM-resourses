@@ -164,6 +164,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [LLM101n](https://github.com/karpathy/LLM101n): Let's build a Storyteller.
 26. [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 27. [LLMs From Scratch (Datawhale Version)](https://github.com/datawhalechina/llms-from-scratch-cn)
+28. [OpenRAG](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595)
+29. [通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
 ## 教程
 
