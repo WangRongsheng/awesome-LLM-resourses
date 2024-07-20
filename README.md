@@ -69,6 +69,7 @@
 25. [RouteLLM](https://github.com/lm-sys/RouteLLM): A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
 26. [MInference](https://github.com/microsoft/MInference): About
 To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
+27. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
 
 ## 评估
 
