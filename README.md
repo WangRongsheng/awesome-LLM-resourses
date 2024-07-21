@@ -135,6 +135,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 5. [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch)
 6. [《多模态大模型》](https://github.com/HCPLab-SYSU/Book-of-MLM)
 7. [《Generative AI Handbook: A Roadmap for Learning Resources》](https://genai-handbook.github.io/)
+8. [《Understanding Deep Learning》](https://udlbook.github.io/udlbook/)
 
 ## 课程
 
