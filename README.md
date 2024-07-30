@@ -72,6 +72,7 @@
 26. [MInference](https://github.com/microsoft/MInference): About
 To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
 27. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
+28. [SGLang](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
 
 ## 评估
 
