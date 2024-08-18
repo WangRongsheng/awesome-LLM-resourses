@@ -189,6 +189,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. [通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 30. [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 31. [Interactive visualization of Transformer](https://poloclub.github.io/transformer-explainer/)
+32. [andysingal/llm-course](https://github.com/andysingal/llm-course)
 
 ## 教程 Tutorial
 
