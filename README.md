@@ -216,6 +216,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 5. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
 6. [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
 7. [Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
+8. [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 
 ## Tips
 
