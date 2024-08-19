@@ -211,6 +211,11 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 1. [Hermes-3-Technical-Report](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
 2. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+3. [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
+4. [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671)
+5. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+6. [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+7. [Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
 
 ## Tips
 
