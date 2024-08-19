@@ -43,6 +43,7 @@
 20. [LLM-Foundry](https://github.com/mosaicml/llm-foundry): LLM training code for Databricks foundation models.
 21. [lmms-finetune](https://github.com/zjysteven/lmms-finetune): A unified codebase for finetuning (full, lora) large multimodal models, supporting llava-1.5, qwen-vl, llava-interleave, llava-next-video, phi3-v etc.
 22. [Simplifine](https://github.com/simplifine-llm/Simplifine): Simplifine lets you invoke LLM finetuning with just one line of code using any Hugging Face dataset or model.
+23. [Transformer Lab](https://github.com/transformerlab/transformerlab-app): Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 
 ## 推理 Inference
 
