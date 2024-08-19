@@ -205,6 +205,12 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [B站：黄益贺](https://space.bilibili.com/322961825)
 11. [B站：深度学习自然语言处理](https://space.bilibili.com/507524288)
 12. [LLM Visualization](https://bbycroft.net/llm)
+13. [知乎: 原石人类](https://www.zhihu.com/people/zhang-shi-tou-88-98/posts)
+
+## 论文 Paper
+
+1. [Hermes-3-Technical-Report](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
+2. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 
 ## Tips
 
