@@ -112,6 +112,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [GraphRAG-Ollama-UI](https://github.com/severian42/GraphRAG-Ollama-UI): GraphRAG using Ollama with Gradio UI and Extra Features.
 15. [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag): A simple, easy-to-hack GraphRAG implementation.
 16. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+17. [ragas](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 
 ## Agents
 
@@ -191,6 +192,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 30. [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 31. [Interactive visualization of Transformer](https://poloclub.github.io/transformer-explainer/)
 32. [andysingal/llm-course](https://github.com/andysingal/llm-course)
+33. [LM-class](https://lm-class.org/lectures)
 
 ## 教程 Tutorial
 
