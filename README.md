@@ -209,6 +209,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [B站：深度学习自然语言处理](https://space.bilibili.com/507524288)
 12. [LLM Visualization](https://bbycroft.net/llm)
 13. [知乎: 原石人类](https://www.zhihu.com/people/zhang-shi-tou-88-98/posts)
+14. [B站：小黑黑讲AI](https://space.bilibili.com/1963375439/?spm_id_from=333.999.0.0)
+15. [B站：面壁的车辆工程师](https://space.bilibili.com/669720247/?spm_id_from=333.999.0.0)
+16. [B站：AI老兵文哲](https://space.bilibili.com/472543316/?spm_id_from=333.999.0.0)
 
 ## 论文 Paper
 
