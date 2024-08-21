@@ -225,6 +225,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 8. [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
 9. [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 10. [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://arxiv.org/abs/2405.19327)
+11. [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](https://arxiv.org/abs/2404.04167)
 
 ## Tips
 
