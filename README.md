@@ -157,6 +157,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. [《多模态大模型》](https://github.com/HCPLab-SYSU/Book-of-MLM)
 7. [《Generative AI Handbook: A Roadmap for Learning Resources》](https://genai-handbook.github.io/)
 8. [《Understanding Deep Learning》](https://udlbook.github.io/udlbook/)
+9. [《Illustrated book to learn about Transformers & LLMs》](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/)
 
 ## 课程 Course
 
