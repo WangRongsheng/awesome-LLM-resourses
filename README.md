@@ -196,6 +196,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 31. [Interactive visualization of Transformer](https://poloclub.github.io/transformer-explainer/)
 32. [andysingal/llm-course](https://github.com/andysingal/llm-course)
 33. [LM-class](https://lm-class.org/lectures)
+34. [Google Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)
 
 ## 教程 Tutorial
 
