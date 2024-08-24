@@ -197,6 +197,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 32. [andysingal/llm-course](https://github.com/andysingal/llm-course)
 33. [LM-class](https://lm-class.org/lectures)
 34. [Google Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)
+35. [Anthropics：Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial/Anthropic%201P)
 
 ## 教程 Tutorial
 
