@@ -18,6 +18,7 @@
 5. [MinerU](https://github.com/opendatalab/MinerU): MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.
 6. [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 7. [Parsera](https://github.com/raznem/parsera): Lightweight library for scraping web-sites with LLMs.
+8. [Sparrow](https://github.com/katanaml/sparrow): Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
 
 ## 微调 Fine-Tuning
 
@@ -78,6 +79,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. [Mem0](https://github.com/mem0ai/mem0): The memory layer for Personalized AI.
 28. [SGLang](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
 29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
+30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
 
 ## 评估 Evaluation
 
@@ -217,6 +219,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [B站：小黑黑讲AI](https://space.bilibili.com/1963375439/?spm_id_from=333.999.0.0)
 15. [B站：面壁的车辆工程师](https://space.bilibili.com/669720247/?spm_id_from=333.999.0.0)
 16. [B站：AI老兵文哲](https://space.bilibili.com/472543316/?spm_id_from=333.999.0.0)
+17. [Large Language Models (LLMs) with Colab notebooks](https://mlabonne.github.io/blog/)
+18. [YTB：IBM Technology](https://www.youtube.com/@IBMTechnology)
 
 ## 论文 Paper
 
