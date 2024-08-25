@@ -249,6 +249,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. [Unsupervised Text Classification: Categorize Natural Language With LLMs](https://www.striveworks.com/blog/unsupervised-text-classification-how-to-use-llms-to-categorize-natural-language-data)
 7. [Text Classification With LLMs: A Roundup of the Best Methods](https://www.striveworks.com/blog/text-classification-with-llms-a-roundup-of-the-best-methods)
 8. [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/edit?gid=0#gid=0)
+9. [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 
 <!--
 ## 软件
