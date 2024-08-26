@@ -238,6 +238,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 12. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
 13. [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570v1)
 14. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+15. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
 
 ## Tips
 
