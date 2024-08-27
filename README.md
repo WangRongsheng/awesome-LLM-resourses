@@ -80,6 +80,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 28. [SGLang](https://github.com/sgl-project/sglang): SGLang is yet another fast serving framework for large language models and vision language models.
 29. [AirLLM](https://github.com/lyogavin/airllm): AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
 30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
+31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
 
 ## 评估 Evaluation
 
