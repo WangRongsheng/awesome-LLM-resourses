@@ -262,6 +262,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [Text Classification With LLMs: A Roundup of the Best Methods](https://www.striveworks.com/blog/text-classification-with-llms-a-roundup-of-the-best-methods)
 8. [LLM Pricing](https://docs.google.com/spreadsheets/d/18GHPEBJzDbICmMStPVkNWA_hQHiWmLcqUdEJA1b4MJM/edit?gid=0#gid=0)
 9. [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+10. [Tiny LLM Universe](https://github.com/datawhalechina/tiny-universe)
 
 <!--
 ## 软件
