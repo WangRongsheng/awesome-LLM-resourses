@@ -231,6 +231,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [Large Language Models (LLMs) with Colab notebooks](https://mlabonne.github.io/blog/)
 18. [YTB：IBM Technology](https://www.youtube.com/@IBMTechnology)
 19. [YTB: Unify Reading Paper Group](https://www.youtube.com/playlist?list=PLwNuX3xB_tv91QvDXlW2TjrLGHW51uMul)
+20. [Chip Huyen](https://huyenchip.com/blog/)
 
 ## 论文 Paper
 
