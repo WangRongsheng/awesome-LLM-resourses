@@ -233,6 +233,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [YTB: Unify Reading Paper Group](https://www.youtube.com/playlist?list=PLwNuX3xB_tv91QvDXlW2TjrLGHW51uMul)
 20. [Chip Huyen](https://huyenchip.com/blog/)
 21. [How Much VRAM](https://github.com/AlexBodner/How_Much_VRAM)
+22. [Blog: 科学空间（苏剑林）](https://kexue.fm/)
 
 ## 论文 Paper
 
