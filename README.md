@@ -254,6 +254,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 15. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
 16. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
+17. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
 
 ## Tips
 
