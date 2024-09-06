@@ -240,6 +240,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [Blog: 科学空间（苏剑林）](https://kexue.fm/)
 23. [YTB: Hyung Won Chung](https://www.youtube.com/watch?v=dbo3kNKPaUA)
 24. [Blog: Tejaswi kashyap](https://medium.com/@tejaswi_kashyap)
+25. [Blog: 小昇的博客](https://xiaosheng.blog/)
 
 ## 论文 Paper
 
@@ -274,6 +275,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 10. [Tiny LLM Universe](https://github.com/datawhalechina/tiny-universe)
 11. [Zero-Chatgpt](https://github.com/AI-Study-Han/Zero-Chatgpt)
+12. [Zero-Qwen-VL](https://github.com/AI-Study-Han/Zero-Qwen-VL)
 
 <!--
 ## 软件
