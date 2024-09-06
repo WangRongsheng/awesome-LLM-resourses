@@ -88,6 +88,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 30. [LLMHub](https://github.com/jmather/llmhub): LLMHub is a lightweight management platform designed to streamline the operation and interaction with various language models (LLMs).
 31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
 32. [LiteLLM](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
+33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
 
 ## 评估 Evaluation
 
