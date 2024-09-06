@@ -239,6 +239,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [How Much VRAM](https://github.com/AlexBodner/How_Much_VRAM)
 22. [Blog: 科学空间（苏剑林）](https://kexue.fm/)
 23. [YTB: Hyung Won Chung](https://www.youtube.com/watch?v=dbo3kNKPaUA)
+24. [Blog: Tejaswi kashyap](https://medium.com/@tejaswi_kashyap)
 
 ## 论文 Paper
 
