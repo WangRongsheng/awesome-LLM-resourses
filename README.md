@@ -346,6 +346,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [Tiny LLM Universe](https://github.com/datawhalechina/tiny-universe)
 11. [Zero-Chatgpt](https://github.com/AI-Study-Han/Zero-Chatgpt)
 12. [Zero-Qwen-VL](https://github.com/AI-Study-Han/Zero-Qwen-VL)
+13. [Knowledge distillation: Teaching LLM's with synthetic data](https://wandb.ai/byyoung3/ML_NEWS3/reports/Knowledge-distillation-Teaching-LLM-s-with-synthetic-data--Vmlldzo5MTMyMzA2)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
