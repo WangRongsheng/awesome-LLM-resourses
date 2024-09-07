@@ -359,6 +359,20 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 4. [沉浸式翻译](https://immersivetranslate.com/)
 -->
 
+![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
+
+如果你觉得本项目对你有帮助，欢迎引用：
+```bib
+@misc{wang2024llm,
+      title={awesome-LLM-resourses}, 
+      author={Rongsheng Wang},
+      year={2024},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resourses}},
+}
+```
+
 [![Forkers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/forks/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/network/members)
 
 [![Stargazers repo roster for @WangRongsheng/awesome-LLM-resourses](https://reporoster.com/stars/WangRongsheng/awesome-LLM-resourses)](https://github.com/WangRongsheng/awesome-LLM-resourses/stargazers)
