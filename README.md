@@ -213,6 +213,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 34. [Google Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)
 35. [Anthropics：Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial/Anthropic%201P)
 36. [LLMsBook](https://github.com/liucongg/LLMsBook)
+37. [Large Language Model Agents](https://llmagents-learning.org/f24)
 
 ## 教程 Tutorial
 
