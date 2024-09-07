@@ -244,6 +244,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 论文 Paper
 
+> [Huggingface Daily Papers](https://huggingface.co/papers)
+
 1. [Hermes-3-Technical-Report](https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
 2. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 3. [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
