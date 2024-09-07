@@ -41,6 +41,10 @@
 7. [Parsera](https://github.com/raznem/parsera): Lightweight library for scraping web-sites with LLMs.
 8. [Sparrow](https://github.com/katanaml/sparrow): Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
 
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 微调 Fine-Tuning
 
 1. [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs.
@@ -67,6 +71,10 @@
 22. [Simplifine](https://github.com/simplifine-llm/Simplifine): Simplifine lets you invoke LLM finetuning with just one line of code using any Hugging Face dataset or model.
 23. [Transformer Lab](https://github.com/transformerlab/transformerlab-app): Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 24. [Liger-Kernel](https://github.com/linkedin/Liger-Kernel): Efficient Triton Kernels for LLM Training.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## 推理 Inference
 
@@ -105,11 +113,19 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 32. [LiteLLM](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
 
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 评估 Evaluation
 
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## 体验 Usage
 
@@ -121,6 +137,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. [Poe](https://poe.com/)
 7. [林哥的大模型野榜](https://lyihub.com/)
 8. [OpenRouter](https://openrouter.ai/)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## RAG
 
@@ -142,6 +162,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 17. [ragas](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 18. [kotaemon](https://github.com/Cinnamon/kotaemon): An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## Agents
 
@@ -170,11 +194,19 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [Agents](https://github.com/aiwaves-cn/agents): An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents.
 24. [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way.
 
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 搜索 Search
 
 1. [OpenSearch GPT](https://github.com/supermemoryai/opensearch-ai): SearchGPT / Perplexity clone, but personalised for you.
 2. [MindSearch](https://github.com/InternLM/MindSearch): An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT).
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## 书籍 Book
 
@@ -189,6 +221,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 9. [《Illustrated book to learn about Transformers & LLMs》](https://www.reddit.com/r/MachineLearning/comments/1ew1hws/p_illustrated_book_to_learn_about_transformers/)
 10. [《Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG》](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8?crid=7OAXELUKGJE4&dib=eyJ2IjoiMSJ9.Qr3e3VSH8LSo_j1M7sV7GfS01q_W1LDYd2uGlvGJ8CW-t4DTlng6bSeOlZBryhp6HJN5K1HqWMVVgabU2wz2i9yLpy_AuaZN-raAEbenKx2NHtzZA3A4k-N7GpnldF1baCarA_V1CRF-aCdc9_3WSX7SaEzmpyDv22TTyltcKT74HAb2KiQqBGLhQS3cEAnzChcqGa1Xp-XhbMnplVwT7xZLApE3tGLhDOgi5GmSi9w.8SY_4NBEkm68YF4GwhDnz0r81ZB1d8jr-gK9IMJE5AE&dib_tag=se&keywords=building+llms+for+production&qid=1716376414&sprefix=building+llms+for+production,aps,101&sr=8-1&linkCode=sl1&tag=whatsai06-20&linkId=ee102fda07a0eb51710fcdd8b8d20c28&language=en_US&ref_=as_li_ss_tl)
 11. [《大型语言模型实战指南：应用实践与场景落地》](https://github.com/liucongg/LLMsBook)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## 课程 Course
 
@@ -230,6 +266,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [LLMsBook](https://github.com/liucongg/LLMsBook)
 37. [Large Language Model Agents](https://llmagents-learning.org/f24)
 
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 教程 Tutorial
 
 1. [动手学大模型应用开发](https://datawhalechina.github.io/llm-universe/#/)
@@ -258,6 +298,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [Blog: Tejaswi kashyap](https://medium.com/@tejaswi_kashyap)
 25. [Blog: 小昇的博客](https://xiaosheng.blog/)
 
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
 ## 论文 Paper
 
 > [!NOTE]
@@ -280,6 +324,10 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
 16. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
 17. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
 
 ## Tips
 
