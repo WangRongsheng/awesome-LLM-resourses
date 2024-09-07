@@ -13,6 +13,7 @@
   <img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social >
  </div>   
 
+1. [Tips](##tips)
 
 
 ## 数据 Data
@@ -266,7 +267,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
 17. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
 
-## Tips
+## <span id="tips">Tips</span>
 
 1. [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 2. [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
