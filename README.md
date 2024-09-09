@@ -351,6 +351,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [Zero-Chatgpt](https://github.com/AI-Study-Han/Zero-Chatgpt)
 12. [Zero-Qwen-VL](https://github.com/AI-Study-Han/Zero-Qwen-VL)
 13. [Knowledge distillation: Teaching LLM's with synthetic data](https://wandb.ai/byyoung3/ML_NEWS3/reports/Knowledge-distillation-Teaching-LLM-s-with-synthetic-data--Vmlldzo5MTMyMzA2)
+14. [Part 1: Methods for adapting large language models](https://ai.meta.com/blog/adapting-large-language-models-llms/)
+15. [Part 2: To fine-tune or not to fine-tune](https://ai.meta.com/blog/when-to-fine-tune-llms-vs-other-techniques/)
+16. [Part 3: How to fine-tune: Focus on effective datasets](https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
