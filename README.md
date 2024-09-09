@@ -271,6 +271,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 37. [Large Language Model Agents](https://llmagents-learning.org/f24)
 38. [Cohere LLM University](https://cohere.com/llmu)
 39. [LLMs and Transformers](https://www.ambujtewari.com/LLM-fall2024/)
+40. [Smol Vision](https://github.com/merveenoyan/smol-vision): Recipes for shrinking, optimizing, customizing cutting edge vision models.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
