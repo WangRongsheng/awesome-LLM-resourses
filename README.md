@@ -43,6 +43,7 @@
 6. [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 7. [Parsera](https://github.com/raznem/parsera): Lightweight library for scraping web-sites with LLMs.
 8. [Sparrow](https://github.com/katanaml/sparrow): Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
+9. [Docling](https://github.com/DS4SD/docling): Transform PDF to JSON or Markdown with ease and speed.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
