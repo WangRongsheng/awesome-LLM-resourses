@@ -270,6 +270,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [LLMsBook](https://github.com/liucongg/LLMsBook)
 37. [Large Language Model Agents](https://llmagents-learning.org/f24)
 38. [Cohere LLM University](https://cohere.com/llmu)
+39. [LLMs and Transformers](https://www.ambujtewari.com/LLM-fall2024/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
