@@ -274,6 +274,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 38. [Cohere LLM University](https://cohere.com/llmu)
 39. [LLMs and Transformers](https://www.ambujtewari.com/LLM-fall2024/)
 40. [Smol Vision](https://github.com/merveenoyan/smol-vision): Recipes for shrinking, optimizing, customizing cutting edge vision models.
+41. [Multimodal RAG: Chat with Videos](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
