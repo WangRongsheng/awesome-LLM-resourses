@@ -118,6 +118,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 31. [YuanChat](https://github.com/IEIT-Yuan/YuanChat)
 32. [LiteLLM](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 33. [GuideLLM](https://github.com/neuralmagic/guidellm): GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
+34. [LLM-Engines](https://github.com/jdf-prog/LLM-Engines): A unified inference engine for large language models (LLMs) including open-source models (VLLM, SGLang, Together) and commercial models (OpenAI, Mistral, Claude).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
