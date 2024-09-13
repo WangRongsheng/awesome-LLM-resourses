@@ -1,37 +1,26 @@
-name: Build Documentation from Readme
- 
+name: Update README files
+
 on:
+  schedule:
+    - cron: '30 */2 * * *'
   push:
-    branches: [ "main" ] # Make sure this matches your default branch
- 
+    branches:
+    - main
+  # To run this workflow manually from GitHub GUI
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
- 
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
- 
     steps:
-      - uses: actions/checkout@v3
- 
-      - name: Create site from Readme
-        run: |
-          # Here we set up the HydePHP source files to use the README.md as the index page
-          mkdir _pages
-          mv README.md _pages/index.md
-          rm -rf !'_pages'
- 
-      - name: Create Hyde config
-        run: |
-          # Configure the site name
-          echo 'name: My Site Name' >> hyde.yml
-          # Optionally, load styles from the CDN
-          echo 'load_app_styles_from_cdn: true' >> hyde.yml
-          # Optionally, use Highlight.js for syntax highlighting
-          echo "scripts: '<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/atom-one-dark.min.css\"> <script src=\"https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js\"></script> <script>hljs.highlightAll();</script> <style>.prose :where(pre) { background-color: #282c34; } </style> <style>pre code.hljs { padding: 0; }</style>'" >> hyde.yml
- 
-      - uses: hydephp/action@master
-        with:
-          deploy-to: "pages"
+    - name: Check out the repo
+      uses: actions/checkout@v2
+    - name: Get the latest READMEs
+      run: make readme-update
+    - name: Commit and push if there are changes
+      run: |-
+        git diff
+        git config --global user.email "bot@example.com"
+        git config --global user.name "bot"
+        git diff --quiet || (git add -u && git commit -m "Update READMEs")
+        git push
