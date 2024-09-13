@@ -370,15 +370,6 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-
-<!--
-## 软件
-1. [POT](https://github.com/pot-app/pot-desktop)
-2. [Bob](https://github.com/ripperhe/Bob)
-3. [OpenAI Translator Bob Plugin](https://github.com/openai-translator/bob-plugin-openai-translator)
-4. [沉浸式翻译](https://immersivetranslate.com/)
--->
-
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 如果你觉得本项目对你有帮助，欢迎引用：
