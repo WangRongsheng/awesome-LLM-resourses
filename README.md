@@ -2,16 +2,16 @@
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
 
- <p align="center">
+<p align="center">
 <a href="https://info.flagcounter.com/U6Yn"><img src="https://s11.flagcounter.com/count2/U6Yn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
-<div align='center'>
+<p align="center">
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/forks/WangRongsheng/awesome-LLM-resourses.svg?style=social >
   <img src=https://img.shields.io/github/stars/WangRongsheng/awesome-LLM-resourses.svg?style=social >
   <img src=https://img.shields.io/github/watchers/WangRongsheng/awesome-LLM-resourses.svg?style=social >
- </div>   
+</p>
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
