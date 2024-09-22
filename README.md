@@ -373,6 +373,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [Part 2: To fine-tune or not to fine-tune](https://ai.meta.com/blog/when-to-fine-tune-llms-vs-other-techniques/)
 20. [Part 3: How to fine-tune: Focus on effective datasets](https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/)
 21. [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
+22. [LLMs应用构建一年之心得](https://iangyan.github.io/2024/09/08/building-with-llms-part-1/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
