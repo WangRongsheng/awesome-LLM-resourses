@@ -81,6 +81,7 @@
 23. [Transformer Lab](https://github.com/transformerlab/transformerlab-app): Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 24. [Liger-Kernel](https://github.com/linkedin/Liger-Kernel): Efficient Triton Kernels for LLM Training.
 25. [ChatLearn](https://github.com/alibaba/ChatLearn): A flexible and efficient training framework for large-scale alignment.
+26. [nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
