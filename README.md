@@ -82,6 +82,7 @@
 24. [Liger-Kernel](https://github.com/linkedin/Liger-Kernel): Efficient Triton Kernels for LLM Training.
 25. [ChatLearn](https://github.com/alibaba/ChatLearn): A flexible and efficient training framework for large-scale alignment.
 26. [nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training.
+27. [Proxy Tuning](https://github.com/alisawuffles/proxy-tuning): Tuning Language Models by Proxy.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
