@@ -210,6 +210,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [Agent Zero](https://github.com/frdel/agent-zero): Agent Zero is not a predefined agentic framework. It is designed to be dynamic, organically growing, and learning as you use it.
 23. [Agents](https://github.com/aiwaves-cn/agents): An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents.
 24. [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way.
+25. [FastAgency](https://github.com/airtai/fastagency): The fastest way to bring multi-agent workflows to production.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
