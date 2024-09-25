@@ -323,6 +323,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 23. [YTB: Hyung Won Chung](https://www.youtube.com/watch?v=dbo3kNKPaUA)
 24. [Blog: Tejaswi kashyap](https://medium.com/@tejaswi_kashyap)
 25. [Blog: 小昇的博客](https://xiaosheng.blog/)
+26. [知乎: ybq](https://www.zhihu.com/people/ybq-29-32/posts)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -379,6 +380,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. [Part 3: How to fine-tune: Focus on effective datasets](https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/)
 21. [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 22. [LLMs应用构建一年之心得](https://iangyan.github.io/2024/09/08/building-with-llms-part-1/)
+23. [LLM训练-pretrain](https://zhuanlan.zhihu.com/p/718354385)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
