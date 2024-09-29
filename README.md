@@ -138,6 +138,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 1. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): A framework for few-shot evaluation of language models.
 2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
+4. [EvalScope](https://github.com/modelscope/evalscope)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
