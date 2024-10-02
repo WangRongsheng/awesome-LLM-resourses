@@ -139,6 +139,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [opencompass](https://github.com/open-compass/opencompass): OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 3. [llm-comparator](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
 4. [EvalScope](https://github.com/modelscope/evalscope)
+5. [Weave](https://weave-docs.wandb.ai/guides/core-types/evaluations): A lightweight toolkit for tracking and evaluating LLM applications.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -293,6 +294,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 40. [Smol Vision](https://github.com/merveenoyan/smol-vision): Recipes for shrinking, optimizing, customizing cutting edge vision models.
 41. [Multimodal RAG: Chat with Videos](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
 42. [LLMs Interview Note](https://github.com/wdndev/llm_interview_note)
+43. [RAG++ : From POC to production](https://www.wandb.courses/courses/rag-in-production): Advanced RAG course.
+44. [Weights & Biases AI Academy](https://www.wandb.courses/pages/w-b-courses): Finetuning, building with LLMs, Structured outputs and more LLM courses. 
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
