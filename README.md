@@ -389,6 +389,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 21. [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/?nocache=1)
 22. [LLMs应用构建一年之心得](https://iangyan.github.io/2024/09/08/building-with-llms-part-1/)
 23. [LLM训练-pretrain](https://zhuanlan.zhihu.com/p/718354385)
+24. [pytorch-llama](https://github.com/hkproj/pytorch-llama): LLaMA 2 implemented from scratch in PyTorch.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
