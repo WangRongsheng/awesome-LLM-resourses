@@ -329,6 +329,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [Blog: Tejaswi kashyap](https://medium.com/@tejaswi_kashyap)
 25. [Blog: 小昇的博客](https://xiaosheng.blog/)
 26. [知乎: ybq](https://www.zhihu.com/people/ybq-29-32/posts)
+27. [W&B articles](https://wandb.ai/fully-connected)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
