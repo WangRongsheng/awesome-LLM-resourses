@@ -84,6 +84,7 @@
 25. [ChatLearn](https://github.com/alibaba/ChatLearn): A flexible and efficient training framework for large-scale alignment.
 26. [nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training.
 27. [Proxy Tuning](https://github.com/alisawuffles/proxy-tuning): Tuning Language Models by Proxy.
+28. [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment/): Effective LLM Alignment Toolkit.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
