@@ -85,6 +85,7 @@
 26. [nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training.
 27. [Proxy Tuning](https://github.com/alisawuffles/proxy-tuning): Tuning Language Models by Proxy.
 28. [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment/): Effective LLM Alignment Toolkit.
+29. [Autotrain-advanced](https://github.com/huggingface/autotrain-advanced)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
