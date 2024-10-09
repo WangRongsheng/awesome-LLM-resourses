@@ -39,6 +39,12 @@
 
 ## 数据 Data
 
+> [!NOTE]
+> 
+> 此处命名为`数据`，但这里并没有提供具体数据集，而是提供了处理获取大规模数据的方法
+>
+> 我们始终秉持授人以鱼不如授人以渔
+
 1. [AotoLabel](https://github.com/refuel-ai/autolabel): Label, clean and enrich text datasets with LLMs.
 2. [LabelLLM](https://github.com/opendatalab/LabelLLM): The Open-Source Data Annotation Platform.
 3. [data-juicer](https://github.com/modelscope/data-juicer): A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!
@@ -50,6 +56,7 @@
 9. [Docling](https://github.com/DS4SD/docling): Transform PDF to JSON or Markdown with ease and speed.
 10. [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): OCR Model.
 11. [LLM Decontaminator](https://github.com/lm-sys/llm-decontaminator): Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.
+12. [DataTrove](https://github.com/huggingface/datatrove): DataTrove is a library to process, filter and deduplicate text data at a very large scale.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
