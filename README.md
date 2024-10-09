@@ -57,6 +57,7 @@
 10. [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): OCR Model.
 11. [LLM Decontaminator](https://github.com/lm-sys/llm-decontaminator): Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.
 12. [DataTrove](https://github.com/huggingface/datatrove): DataTrove is a library to process, filter and deduplicate text data at a very large scale.
+13. [llm-swarm](https://github.com/huggingface/llm-swarm/tree/main/examples/textbooks): Generate large synthetic datasets like [Cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
