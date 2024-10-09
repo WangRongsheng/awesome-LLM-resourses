@@ -404,6 +404,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [pytorch-llama](https://github.com/hkproj/pytorch-llama): LLaMA 2 implemented from scratch in PyTorch.
 25. [Preference Optimization for Vision Language Models with TRL](https://huggingface.co/blog/dpo_vlm) 【[support model](https://huggingface.co/docs/transformers/model_doc/auto#transformers.AutoModelForVision2Seq)】
 26. [Fine-tuning visual language models using SFTTrainer](https://huggingface.co/blog/vlms) 【[docs](https://huggingface.co/docs/trl/sft_trainer#extending-sfttrainer-for-vision-language-models)】
+27. [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
