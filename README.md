@@ -349,19 +349,20 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 3. [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
 4. [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671)
-5. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
-6. [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
-7. [Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
-8. [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
-9. [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
-10. [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://arxiv.org/abs/2405.19327)
-11. [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](https://arxiv.org/abs/2404.04167)
-12. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
-13. [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570v1)
-14. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
-15. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
-16. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
-17. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
+5. [Qwen2-vl Technical Report](https://arxiv.org/abs/2409.12191)
+6. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+7. [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+8. [Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
+9. [DataComp-LM: In search of the next generation of training sets for language models](https://arxiv.org/abs/2406.11794)
+10. [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+11. [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://arxiv.org/abs/2405.19327)
+12. [Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model](https://arxiv.org/abs/2404.04167)
+13. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
+14. [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570v1)
+15. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+16. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
+17. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
+18. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
