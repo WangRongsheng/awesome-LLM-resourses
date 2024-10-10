@@ -257,6 +257,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 12. [《Hands-On Large Language Models》](https://github.com/handsOnLLM/Hands-On-Large-Language-Models)
 13. [《自然语言处理：大模型理论与实践》](https://nlp-book.swufenlp.group/)
 14. [《动手学强化学习》](https://hrl.boyuai.com/)
+15. [《面向开发者的LLM入门教程》](https://datawhalechina.github.io/llm-cookbook/#/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
