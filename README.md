@@ -374,6 +374,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 16. [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
 17. [Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models](https://arxiv.org/abs/2408.02085) `data`
 18. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)
+19. [Model Merging Paper](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
