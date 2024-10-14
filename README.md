@@ -195,6 +195,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 18. [kotaemon](https://github.com/Cinnamon/kotaemon): An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
 19. [RAGapp](https://github.com/ragapp/ragapp): The easiest way to use Agentic RAG in any enterprise.
 20. [TurboRAG](https://github.com/MooreThreads/TurboRAG): Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text.
+21. [LightRAG](https://github.com/HKUDS/LightRAG): Simple and Fast Retrieval-Augmented Generation.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
