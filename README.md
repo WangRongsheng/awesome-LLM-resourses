@@ -313,7 +313,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 41. [Multimodal RAG: Chat with Videos](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/)
 42. [LLMs Interview Note](https://github.com/wdndev/llm_interview_note)
 43. [RAG++ : From POC to production](https://www.wandb.courses/courses/rag-in-production): Advanced RAG course.
-44. [Weights & Biases AI Academy](https://www.wandb.courses/pages/w-b-courses): Finetuning, building with LLMs, Structured outputs and more LLM courses. 
+44. [Weights & Biases AI Academy](https://www.wandb.courses/pages/w-b-courses): Finetuning, building with LLMs, Structured outputs and more LLM courses.
+45. [Prompt Engineering & AI tutorials & Resources](https://promptengineering.org/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -414,6 +415,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. [Preference Optimization for Vision Language Models with TRL](https://huggingface.co/blog/dpo_vlm) 【[support model](https://huggingface.co/docs/transformers/model_doc/auto#transformers.AutoModelForVision2Seq)】
 28. [Fine-tuning visual language models using SFTTrainer](https://huggingface.co/blog/vlms) 【[docs](https://huggingface.co/docs/trl/sft_trainer#extending-sfttrainer-for-vision-language-models)】
 29. [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
+30. [Role-Playing in Large Language Models like ChatGPT](https://promptengineering.org/role-playing-in-large-language-models-like-chatgpt/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
