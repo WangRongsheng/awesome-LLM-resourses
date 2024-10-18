@@ -65,6 +65,7 @@
 14. [Distilabel](https://github.com/argilla-io/distilabel): Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 15. [Common-Crawl-Pipeline-Creator](https://huggingface.co/spaces/lhoestq/Common-Crawl-Pipeline-Creator): The Common Crawl Pipeline Creator.
 16. [Tabled](https://github.com/VikParuchuri/tabled): Detect and extract tables to markdown and csv.
+17. [Zerox](https://github.com/getomni-ai/zerox): Zero shot pdf OCR with gpt-4o-mini.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
