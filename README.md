@@ -30,8 +30,8 @@
 - [推理 Inference](#推理-Inference)
 - [评估 Evaluation](#评估-Evaluation)
 - [体验 Usage](#体验-Usage)
-- [RAG](#RAG)
-- [Agents](#Agents)
+- [RAG](#知识库-RAG)
+- [Agents](#智能体-Agents)
 - [搜索 Search](#搜索-Search)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
@@ -181,7 +181,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## RAG
+## 知识库 RAG
 
 1. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm): The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
 2. [MaxKB](https://github.com/1Panel-dev/MaxKB): 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统
@@ -204,12 +204,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [RAGapp](https://github.com/ragapp/ragapp): The easiest way to use Agentic RAG in any enterprise.
 20. [TurboRAG](https://github.com/MooreThreads/TurboRAG): Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text.
 21. [LightRAG](https://github.com/HKUDS/LightRAG): Simple and Fast Retrieval-Augmented Generation.
+22. [TEN](https://github.com/TEN-framework/ten_framework): the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## Agents
+## 智能体 Agents
 
 1. [AutoGen](https://github.com/microsoft/autogen): AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. [AutoGen AIStudio](https://autogen-studio.com/)
 2. [CrewAI](https://github.com/joaomdmoura/crewAI): Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
