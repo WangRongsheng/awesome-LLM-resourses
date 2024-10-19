@@ -325,6 +325,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 43. [RAG++ : From POC to production](https://www.wandb.courses/courses/rag-in-production): Advanced RAG course.
 44. [Weights & Biases AI Academy](https://www.wandb.courses/pages/w-b-courses): Finetuning, building with LLMs, Structured outputs and more LLM courses.
 45. [Prompt Engineering & AI tutorials & Resources](https://promptengineering.org/)
+46. [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
