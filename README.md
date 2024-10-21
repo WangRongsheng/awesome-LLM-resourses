@@ -273,6 +273,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 13. [《自然语言处理：大模型理论与实践》](https://nlp-book.swufenlp.group/)
 14. [《动手学强化学习》](https://hrl.boyuai.com/)
 15. [《面向开发者的LLM入门教程》](https://datawhalechina.github.io/llm-cookbook/#/)
+16. [《大模型基础》](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
