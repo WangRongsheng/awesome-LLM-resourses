@@ -396,6 +396,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 19. [Model Merging Paper](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 20. [Baichuan-Omni Technical Report](https://arxiv.org/abs/2410.08565)
 21. [1.5-Pints Technical Report: Pretraining in Days, Not Months – Your Language Model Thrives on Quality Data](https://arxiv.org/abs/2408.03506)
+22. [Baichuan Alignment Technical Report](https://arxiv.org/abs/2410.14940v1)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
