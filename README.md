@@ -437,6 +437,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 30. [Role-Playing in Large Language Models like ChatGPT](https://promptengineering.org/role-playing-in-large-language-models-like-chatgpt/)
 31. [Distributed Training Guide](https://github.com/LambdaLabsML/distributed-training-guide): Best practices & guides on how to write distributed pytorch training code.
 32. [Chat Templates](https://hf-mirror.com/blog/chat-templates)
+33. [Top 20+ RAG Interview Questions](https://www.analyticsvidhya.com/blog/2024/04/rag-interview-questions/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
