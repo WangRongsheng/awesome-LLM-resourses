@@ -67,6 +67,7 @@
 16. [Tabled](https://github.com/VikParuchuri/tabled): Detect and extract tables to markdown and csv.
 17. [Zerox](https://github.com/getomni-ai/zerox): Zero shot pdf OCR with gpt-4o-mini.
 18. [DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO): Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception.
+19. [TensorZero](https://github.com/tensorzero/tensorzero): make LLMs improve through experience.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
