@@ -209,7 +209,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. [TurboRAG](https://github.com/MooreThreads/TurboRAG): Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text.
 21. [LightRAG](https://github.com/HKUDS/LightRAG): Simple and Fast Retrieval-Augmented Generation.
 22. [TEN](https://github.com/TEN-framework/ten_framework): the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
-23. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finding an optimal RAG pipeline for your data..
+23. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finding an optimal RAG pipeline for your data.
+24. [KAG](https://github.com/OpenSPG/KAG): KAG is a knowledge-enhanced generation framework based on OpenSPG engine, which is used to build knowledge-enhanced rigorous decision-making and information retrieval knowledge services.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
