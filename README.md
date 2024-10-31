@@ -168,6 +168,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 6. [MixEval](https://github.com/Psycoy/MixEval/): Deriving Wisdom of the Crowd from LLM Benchmark Mixtures.
 7. [Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook): If you've ever wondered how to make sure an LLM performs well on your specific task, this guide is for you!
 8. [Ollama Benchmark](https://github.com/aidatatools/ollama-benchmark): LLM Benchmark for Throughput via Ollama (Local LLMs).
+9. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
