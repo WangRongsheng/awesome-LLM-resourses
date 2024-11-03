@@ -255,6 +255,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 24. [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way.
 25. [FastAgency](https://github.com/airtai/fastagency): The fastest way to bring multi-agent workflows to production.
 26. [Swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
+27. [Agent-S](https://github.com/simular-ai/Agent-S): an open agentic framework that uses computers like a human.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
