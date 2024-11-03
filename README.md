@@ -170,6 +170,13 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 8. [Ollama Benchmark](https://github.com/aidatatools/ollama-benchmark): LLM Benchmark for Throughput via Ollama (Local LLMs).
 9. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks.
 
+`LLM API 服务平台`：
+1. [Groq](https://groq.com/)
+2. [硅基流动](https://cloud.siliconflow.cn/models)
+3. [火山引擎](https://www.volcengine.com/product/ark)
+4. [文心千帆](https://qianfan.cloud.baidu.com/)
+5. [DashScope](https://dashscope.aliyun.com/)
+
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
