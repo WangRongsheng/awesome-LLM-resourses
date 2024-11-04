@@ -69,6 +69,7 @@
 18. [DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO): Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception.
 19. [TensorZero](https://github.com/tensorzero/tensorzero): make LLMs improve through experience.
 20. [Promptwright](https://github.com/StacklokLabs/promptwright): Generate large synthetic data using a local LLM.
+21. [pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api): Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
