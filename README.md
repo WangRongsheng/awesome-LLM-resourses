@@ -222,6 +222,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [TEN](https://github.com/TEN-framework/ten_framework): the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 23. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finding an optimal RAG pipeline for your data.
 24. [KAG](https://github.com/OpenSPG/KAG): KAG is a knowledge-enhanced generation framework based on OpenSPG engine, which is used to build knowledge-enhanced rigorous decision-making and information retrieval knowledge services.
+25. [Fast-GraphRAG](https://github.com/circlemind-ai/fast-graphrag): RAG that intelligently adapts to your use case, data, and queries.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
