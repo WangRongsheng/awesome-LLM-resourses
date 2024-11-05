@@ -416,6 +416,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. [Baichuan-Omni Technical Report](https://arxiv.org/abs/2410.08565)
 21. [1.5-Pints Technical Report: Pretraining in Days, Not Months – Your Language Model Thrives on Quality Data](https://arxiv.org/abs/2408.03506)
 22. [Baichuan Alignment Technical Report](https://arxiv.org/abs/2410.14940v1)
+23. [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/abs/2411.02265)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
