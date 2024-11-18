@@ -253,7 +253,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. [Agently](https://github.com/Maplemx/Agently): AI Agent Application Development Framework.
 16. [OmAgent](https://github.com/om-ai-lab/OmAgent): A multimodal agent framework for solving complex tasks.
 17. [Tribe](https://github.com/StreetLamb/tribe): No code tool to rapidly build and coordinate multi-agent teams.
-18. [CAMEL](https://github.com/camel-ai/camel): Finding the Scaling Law of Agents. A multi-agent framework.
+18. [CAMEL](https://github.com/camel-ai/camel): First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents.
 19. [PraisonAI](https://github.com/MervinPraison/PraisonAI/): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 20. [IoA](https://github.com/openbmb/ioa): An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.
 21. [llama-agentic-system ](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs.
