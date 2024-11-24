@@ -308,6 +308,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 ## 课程 Course
 
+> [LLM Resources Hub](https://llmresourceshub.vercel.app/)
+
 1. [斯坦福 CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 2. [吴恩达: Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 3. [吴恩达: LLM series of courses](https://learn.deeplearning.ai/)
