@@ -160,6 +160,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 39. [Infinity](https://github.com/infiniflow/infinity): The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text.
 40. [optillm](https://github.com/codelion/optillm): an OpenAI API compatible optimizing inference proxy which implements several state-of-the-art techniques that can improve the accuracy and performance of LLMs.
 41. [LLaMA Box](https://github.com/gpustack/llama-box): LLM inference server implementation based on llama.cpp.
+42. [GPTLocalhost](https://gptlocalhost.com/demo): a local Word Add-in for using local LLMs in Microsoft Word locally. Alternative to Microsoft's [Colipot in Word](https://support.microsoft.com/en-us/copilot-word).
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
