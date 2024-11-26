@@ -431,6 +431,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 22. [Baichuan Alignment Technical Report](https://arxiv.org/abs/2410.14940v1)
 23. [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/abs/2411.02265)
 24. [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](https://arxiv.org/abs/2409.17146)
+25. [TÜLU 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
