@@ -474,6 +474,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 31. [Distributed Training Guide](https://github.com/LambdaLabsML/distributed-training-guide): Best practices & guides on how to write distributed pytorch training code.
 32. [Chat Templates](https://hf-mirror.com/blog/chat-templates)
 33. [Top 20+ RAG Interview Questions](https://www.analyticsvidhya.com/blog/2024/04/rag-interview-questions/)
+34. [LLM-Dojo 开源大模型学习场所，使用简洁且易阅读的代码构建模型训练框架](https://github.com/mst272/LLM-Dojo)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
