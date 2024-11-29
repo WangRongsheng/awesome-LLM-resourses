@@ -183,6 +183,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 3. [火山引擎](https://www.volcengine.com/product/ark)
 4. [文心千帆](https://qianfan.cloud.baidu.com/)
 5. [DashScope](https://dashscope.aliyun.com/)
+6. [aisuite](https://github.com/andrewyng/aisuite)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
