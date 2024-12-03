@@ -270,6 +270,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 25. [FastAgency](https://github.com/airtai/fastagency): The fastest way to bring multi-agent workflows to production.
 26. [Swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
 27. [Agent-S](https://github.com/simular-ai/Agent-S): an open agentic framework that uses computers like a human.
+28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
