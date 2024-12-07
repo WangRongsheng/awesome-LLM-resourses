@@ -72,6 +72,7 @@
 21. [pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api): Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models.
 22. [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX): Convert PDF to HTML without losing text or format.
 23. [Extractous](https://github.com/yobix-ai/extractous): Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
+24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
