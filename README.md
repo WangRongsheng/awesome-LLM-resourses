@@ -73,6 +73,7 @@
 22. [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX): Convert PDF to HTML without losing text or format.
 23. [Extractous](https://github.com/yobix-ai/extractous): Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
+25. [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
