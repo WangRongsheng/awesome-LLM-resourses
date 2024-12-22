@@ -74,6 +74,7 @@
 23. [Extractous](https://github.com/yobix-ai/extractous): Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
 25. [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+26. [Docling](https://github.com/DS4SD/docling): Get your documents ready for gen AI.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
