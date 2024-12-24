@@ -114,6 +114,7 @@
 30. [Meta Lingua](https://github.com/facebookresearch/lingua): a lean, efficient, and easy-to-hack codebase to research LLMs.
 31. [Vision-LLM Alignemnt](https://github.com/NiuTrans/Vision-LLM-Alignment): This repository contains the code for SFT, RLHF, and DPO, designed for vision-based LLMs, including the LLaVA models and the LLaMA-3.2-vision models.
 32. [finetune-Qwen2-VL](https://github.com/zhangfaen/finetune-Qwen2-VL): Quick Start for Fine-tuning or continue pre-train Qwen2-VL Model.
+33. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF): A recipe for online RLHF and online iterative DPO.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
