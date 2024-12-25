@@ -75,6 +75,7 @@
 24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
 25. [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 26. [Docling](https://github.com/DS4SD/docling): Get your documents ready for gen AI.
+27. [datasketch](https://github.com/ekzhu/datasketch): datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
