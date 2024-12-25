@@ -242,7 +242,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. [DB-GPT GraphRAG](https://github.com/eosphoros-ai/DB-GPT/tree/main/dbgpt/storage/knowledge_graph): DB-GPT GraphRAG integrates both triplet-based knowledge graphs and document structure graphs while leveraging community and document retrieval mechanisms to enhance RAG capabilities, achieving comparable performance while consuming only 50% of the tokens required by Microsoft's GraphRAG. Refer to the DB-GPT [Graph RAG User Manual](http://docs.dbgpt.cn/docs/cookbook/rag/graph_rag_app_develop/) for details.
 28. [Chonkie](https://github.com/bhavnicksm/chonkie): The no-nonsense RAG chunking library that's lightweight, lightning-fast, and ready to CHONK your texts.
 29. [RAGLite](https://github.com/superlinear-ai/raglite): RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite.
-30. [Epsilla](https://github.com/epsilla-cloud): Epsilla is an all-in-one platform for RAG and AI Agent powered with your private data and knowledge.
+30. [Epsilla](https://github.com/epsilla-cloud): Epsilla is a no-code RAG-as-a-Service platform designed for building production-ready LLM applications using private or public data.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -278,6 +278,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 26. [Swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
 27. [Agent-S](https://github.com/simular-ai/Agent-S): an open agentic framework that uses computers like a human.
 28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
+29. [Epsilla](https://epsilla.com): Epsilla is an all-in-one AI Agent platform powered with private data and knowledge.
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
