@@ -242,6 +242,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. [DB-GPT GraphRAG](https://github.com/eosphoros-ai/DB-GPT/tree/main/dbgpt/storage/knowledge_graph): DB-GPT GraphRAG integrates both triplet-based knowledge graphs and document structure graphs while leveraging community and document retrieval mechanisms to enhance RAG capabilities, achieving comparable performance while consuming only 50% of the tokens required by Microsoft's GraphRAG. Refer to the DB-GPT [Graph RAG User Manual](http://docs.dbgpt.cn/docs/cookbook/rag/graph_rag_app_develop/) for details.
 28. [Chonkie](https://github.com/bhavnicksm/chonkie): The no-nonsense RAG chunking library that's lightweight, lightning-fast, and ready to CHONK your texts.
 29. [RAGLite](https://github.com/superlinear-ai/raglite): RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite.
+30. [Epsilla](https://github.com/epsilla-cloud): Epsilla is an all-in-one platform for RAG and AI Agent powered with your private data and knowledge.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
