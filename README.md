@@ -444,6 +444,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 26. [Phi-4 Technical Report](https://arxiv.org/abs/2412.08905)
 27. [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271)
 28. [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)
+29. [YuLan-Mini: An Open Data-efficient Language Model](https://arxiv.org/abs/2412.17743)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
