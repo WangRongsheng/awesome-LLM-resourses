@@ -57,7 +57,7 @@
 6. [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction.
 7. [Parsera](https://github.com/raznem/parsera): Lightweight library for scraping web-sites with LLMs.
 8. [Sparrow](https://github.com/katanaml/sparrow): Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
-9. [Docling](https://github.com/DS4SD/docling): Transform PDF to JSON or Markdown with ease and speed.
+9. [Docling](https://github.com/DS4SD/docling): Get your documents ready for gen AI.
 10. [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): OCR Model.
 11. [LLM Decontaminator](https://github.com/lm-sys/llm-decontaminator): Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.
 12. [DataTrove](https://github.com/huggingface/datatrove): DataTrove is a library to process, filter and deduplicate text data at a very large scale.
@@ -74,8 +74,7 @@
 23. [Extractous](https://github.com/yobix-ai/extractous): Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
 25. [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
-26. [Docling](https://github.com/DS4SD/docling): Get your documents ready for gen AI.
-27. [datasketch](https://github.com/ekzhu/datasketch): datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
+26. [datasketch](https://github.com/ekzhu/datasketch): datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -311,6 +310,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [《动手学强化学习》](https://hrl.boyuai.com/)
 15. [《面向开发者的LLM入门教程》](https://datawhalechina.github.io/llm-cookbook/#/)
 16. [《大模型基础》](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+17. [Taming LLMs: A Practical Guide to LLM Pitfalls with Open Source Software ](https://www.tamingllms.com/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
