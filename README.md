@@ -276,6 +276,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 26. [Swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
 27. [Agent-S](https://github.com/simular-ai/Agent-S): an open agentic framework that uses computers like a human.
 28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
+29. [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
