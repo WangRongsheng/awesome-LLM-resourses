@@ -181,6 +181,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook): If you've ever wondered how to make sure an LLM performs well on your specific task, this guide is for you!
 8. [Ollama Benchmark](https://github.com/aidatatools/ollama-benchmark): LLM Benchmark for Throughput via Ollama (Local LLMs).
 9. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks.
+10. [AGI-Eval](https://agi-eval.cn/mvp/home)
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
