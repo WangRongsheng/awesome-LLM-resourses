@@ -411,6 +411,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 30. [Blog: mlabonne](https://mlabonne.github.io/blog/)
 31. [LLM-Action](https://github.com/liguodongiot/llm-action)
 32. [Blog: Lil’Log (OponAI)](https://lilianweng.github.io/)
+33. [B站: 毛玉仁](https://space.bilibili.com/3546823125895398)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
