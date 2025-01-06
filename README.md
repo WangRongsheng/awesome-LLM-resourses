@@ -452,6 +452,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. [YuLan-Mini: An Open Data-efficient Language Model](https://arxiv.org/abs/2412.17743)
 30. [An Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247)
 31. [DeepSeek V3 Technical Report](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/DeepSeek_V3.pdf)
+32. [2 OLMo 2 Furious](https://arxiv.org/abs/2501.00656)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
