@@ -292,6 +292,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [MindSearch](https://github.com/InternLM/MindSearch): An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT).
 3. [nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI): The simplest open-source implementation of perplexity.ai.
 4. [curiosity](https://github.com/jank/curiosity): Try to build a Perplexity-like user experience.
+5. [MiniPerplx](https://github.com/zaidmukaddam/miniperplx): A minimalistic AI-powered search engine that helps you find information on the internet.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
