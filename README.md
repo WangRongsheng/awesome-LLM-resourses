@@ -281,6 +281,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 27. [Agent-S](https://github.com/simular-ai/Agent-S): an open agentic framework that uses computers like a human.
 28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
 29. [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents.
+30. [smolagents](https://github.com/huggingface/smolagents): a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
