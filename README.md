@@ -165,6 +165,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 40. [optillm](https://github.com/codelion/optillm): an OpenAI API compatible optimizing inference proxy which implements several state-of-the-art techniques that can improve the accuracy and performance of LLMs.
 41. [LLaMA Box](https://github.com/gpustack/llama-box): LLM inference server implementation based on llama.cpp.
 42. [ZhiLight](https://github.com/zhihu/ZhiLight): A highly optimized inference acceleration engine for Llama and its variants.
+43. [DashInfer](https://github.com/modelscope/dash-infer): DashInfer is a native LLM inference engine aiming to deliver industry-leading performance atop various hardware architectures.
+
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
