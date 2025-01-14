@@ -504,6 +504,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 34. [LLM-Dojo 开源大模型学习场所，使用简洁且易阅读的代码构建模型训练框架](https://github.com/mst272/LLM-Dojo)
 35. [o1 isn’t a chat model (and that’s the point)](https://www.latent.space/p/o1-skill-issue)
 36. [Beam Search快速理解及代码解析](https://www.cnblogs.com/nickchen121/p/15499576.html)
+37. [基于 transformers 的 generate() 方法实现多样化文本生成：参数含义和算法原理解读](https://blog.csdn.net/muyao987/article/details/125917234)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
