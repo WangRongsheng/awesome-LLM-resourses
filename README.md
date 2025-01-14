@@ -75,6 +75,7 @@
 24. [MegaParse](https://github.com/QuivrHQ/MegaParse): File Parser optimised for LLM Ingestion with no loss.
 25. [MarkItDown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 26. [datasketch](https://github.com/ekzhu/datasketch): datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
+27. [semhash](https://github.com/MinishLab/semhash): lightweight and flexible tool for deduplicating datasets using semantic similarity.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
