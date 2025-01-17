@@ -253,6 +253,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 29. [RAGLite](https://github.com/superlinear-ai/raglite): RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite.
 30. [KAG](https://github.com/OpenSPG/KAG): KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.
 31. [CAG](https://github.com/hhhuang/CAG): CAG leverages the extended context windows of modern large language models (LLMs) by preloading all relevant resources into the model’s context and caching its runtime parameters.
+32. [MiniRAG](https://github.com/HKUDS/MiniRAG): an extremely simple retrieval-augmented generation framework that enables small models to achieve good RAG performance through heterogeneous graph indexing and lightweight topology-enhanced retrieval.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
