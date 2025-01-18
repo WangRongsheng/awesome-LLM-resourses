@@ -328,6 +328,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 15. [《面向开发者的LLM入门教程》](https://datawhalechina.github.io/llm-cookbook/#/)
 16. [《大模型基础》](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
 17. [Taming LLMs: A Practical Guide to LLM Pitfalls with Open Source Software ](https://www.tamingllms.com/)
+18. [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
