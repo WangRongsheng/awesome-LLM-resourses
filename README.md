@@ -470,6 +470,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 31. [DeepSeek V3 Technical Report](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/DeepSeek_V3.pdf)
 32. [2 OLMo 2 Furious](https://arxiv.org/abs/2501.00656)
 33. [Yi-Lightning Technical Report](https://arxiv.org/abs/2412.01253)
+34. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
