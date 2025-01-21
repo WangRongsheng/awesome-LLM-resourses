@@ -37,6 +37,7 @@
 - [课程 Course](#课程-Course)
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
+- [社区 Community](#社区-Community)
 - [Tips](#tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
@@ -473,6 +474,17 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [Yi-Lightning Technical Report](https://arxiv.org/abs/2412.01253)
 34. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1)
 35. [KIMI K1.5](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/Kimi_k1.5.pdf)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 社区 Community
+
+1. [魔乐社区](https://modelers.cn/)
+2. [HuggingFace](https://huggingface.co/)
+3. [ModelScope](https://modelscope.cn/)
+4. [WiseModel](https://www.wisemodel.cn/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
