@@ -191,6 +191,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 8. [Ollama Benchmark](https://github.com/aidatatools/ollama-benchmark): LLM Benchmark for Throughput via Ollama (Local LLMs).
 9. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit): Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks.
 10. [AGI-Eval](https://agi-eval.cn/mvp/home)
+11. [EvalScope](https://github.com/modelscope/evalscope): A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
