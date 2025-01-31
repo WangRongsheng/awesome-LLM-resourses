@@ -122,6 +122,7 @@
 35. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF): A recipe for online RLHF and online iterative DPO.
 36. [InternEvo](https://github.com/InternLM/InternEvo): an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 37. [veRL](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
+38. [Axolotl](https://axolotl-ai-cloud.github.io/axolotl/): Axolotl is designed to work with YAML config files that contain everything you need to preprocess a dataset, train or fine-tune a model, run model inference or evaluation, and much more.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
