@@ -126,6 +126,7 @@
 35. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF): A recipe for online RLHF and online iterative DPO.
 36. [InternEvo](https://github.com/InternLM/InternEvo): an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 37. [veRL](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
+38. [Oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
