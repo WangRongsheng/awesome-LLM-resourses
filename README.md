@@ -38,6 +38,9 @@
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
+- [Open o1](#Open-o1)
+- [Small Language Model](#Small-Language-Model)
+- [Small Vision Language Model](#Small-Vision-Language-Model)
 - [Tips](#tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
@@ -78,7 +81,8 @@
 27. [semhash](https://github.com/MinishLab/semhash): lightweight and flexible tool for deduplicating datasets using semantic similarity.
 28. [ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2): a 1.5B parameter language model that converts raw HTML into beautifully formatted markdown or JSON.
 29. [Bespoke Curator](https://github.com/bespokelabsai/curator): Data Curation for Post-Training & Structured Data Extraction.
-30. [LangKit](https://github.com/whylabs/langkit): An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security. 
+30. [LangKit](https://github.com/whylabs/langkit): An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security.
+31. [Curator](https://github.com/bespokelabsai/curator): Synthetic Data curation for post-training and structured data extraction.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -123,6 +127,7 @@
 36. [InternEvo](https://github.com/InternLM/InternEvo): an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 37. [veRL](https://github.com/volcengine/verl): Volcano Engine Reinforcement Learning for LLM.
 38. [Axolotl](https://axolotl-ai-cloud.github.io/axolotl/): Axolotl is designed to work with YAML config files that contain everything you need to preprocess a dataset, train or fine-tune a model, run model inference or evaluation, and much more.
+39. [Oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -490,6 +495,105 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [HuggingFace](https://huggingface.co/)
 3. [ModelScope](https://modelscope.cn/)
 4. [WiseModel](https://www.wisemodel.cn/)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## Open o1
+
+> [!NOTE]
+> 
+> 开放的技术是我们永恒的追求
+
+1. https://github.com/atfortes/Awesome-LLM-Reasoning
+2. https://github.com/hijkzzz/Awesome-LLM-Strawberry
+3. https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey
+4. https://github.com/srush/awesome-o1
+5. https://github.com/open-thought/system-2-research
+6. https://github.com/ninehills/blog/issues/121
+7. https://github.com/OpenSource-O1/Open-O1
+8. https://github.com/GAIR-NLP/O1-Journey
+9. https://github.com/marlaman/show-me
+10. https://github.com/bklieger-groq/g1
+11. https://github.com/Jaimboh/Llamaberry-Chain-of-Thought-Reasoning-in-AI
+12. https://github.com/pseudotensor/open-strawberry
+13. https://huggingface.co/collections/peakji/steiner-preview-6712c6987110ce932a44e9a6
+14. https://github.com/SimpleBerry/LLaMA-O1
+15. https://huggingface.co/collections/Skywork/skywork-o1-open-67453df58e12f6c3934738d0
+16. https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a
+17. https://github.com/SkyworkAI/skywork-o1-prm-inference
+18. https://github.com/RifleZhang/LLaVA-Reasoner-DPO
+19. https://github.com/ADaM-BJTU
+20. https://github.com/ADaM-BJTU/OpenRFT
+21. https://github.com/RUCAIBox/Slow_Thinking_with_LLMs
+22. https://github.com/richards199999/Thinking-Claude
+23. https://huggingface.co/AGI-0/Art-v0-3B
+24. https://huggingface.co/deepseek-ai/DeepSeek-R1
+25. https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero
+26. https://github.com/huggingface/open-r1
+27. https://github.com/hkust-nlp/simpleRL-reason
+28. https://github.com/Jiayi-Pan/TinyZero
+29. https://github.com/baichuan-inc/Baichuan-M1-14B
+30. https://github.com/EvolvingLMMs-Lab/open-r1-multimodal
+31. https://github.com/open-thoughts/open-thoughts
+32. Mini-R1: https://www.philschmid.de/mini-deepseek-r1
+33. LLaMA-Berry: https://arxiv.org/abs/2410.02884
+34. MCTS-DPO: https://arxiv.org/abs/2405.00451
+35. OpenR: https://github.com/openreasoner/openr
+36. https://arxiv.org/abs/2410.02725
+37. LLaVA-o1: https://arxiv.org/abs/2411.10440
+38. Marco-o1: https://arxiv.org/abs/2411.14405
+39. OpenAI o1 report: https://openai.com/index/deliberative-alignment
+40. DRT-o1: https://github.com/krystalan/DRT-o1
+41. Virgo：https://arxiv.org/abs/2501.01904
+42. HuatuoGPT-o1：https://arxiv.org/abs/2412.18925
+43. o1 roadmap：https://arxiv.org/abs/2412.14135
+44. Mulberry：https://arxiv.org/abs/2412.18319
+45. https://arxiv.org/abs/2412.09413
+46. https://arxiv.org/abs/2501.02497
+47. Search-o1:https://arxiv.org/abs/2501.05366v1
+48. https://arxiv.org/abs/2501.18585
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## Small Language Model
+
+1. https://github.com/jiahe7ay/MINI_LLM
+2. https://github.com/jingyaogong/minimind
+3. https://github.com/DLLXW/baby-llama2-chinese
+4. https://github.com/charent/ChatLM-mini-Chinese
+5. https://github.com/wdndev/tiny-llm-zh
+6. https://github.com/Tongjilibo/build_MiniLLM_from_scratch
+7. https://github.com/jzhang38/TinyLlama
+8. https://github.com/AI-Study-Han/Zero-Chatgpt
+9. https://github.com/loubnabnl/nanotron-smol-cluster ([使用Cosmopedia训练cosmo-1b](https://huggingface.co/blog/zh/cosmopedia))
+10. https://github.com/charent/Phi2-mini-Chinese
+11. https://github.com/allenai/OLMo
+12. https://github.com/keeeeenw/MicroLlama
+13. https://github.com/Chinese-Tiny-LLM/Chinese-Tiny-LLM
+14. https://github.com/leeguandong/MiniLLaMA3
+15. https://github.com/Pints-AI/1.5-Pints
+16. https://github.com/zhanshijinwat/Steel-LLM
+17. https://github.com/RUC-GSAI/YuLan-Mini
+18. https://github.com/Om-Alve/smolGPT
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## Small Vision Language Model
+
+1. https://github.com/jingyaogong/minimind-v
+2. https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava
+3. https://github.com/AI-Study-Han/Zero-Qwen-VL
+4. https://github.com/Coobiw/MPP-LLaVA
+5. https://github.com/qnguyen3/nanoLLaVA
+6. https://github.com/TinyLLaVA/TinyLLaVA_Factory
+7. https://github.com/ZhangXJ199/TinyLLaVA-Video
+8. https://github.com/Emericen/tiny-qwen
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
