@@ -557,6 +557,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 49. https://github.com/simplescaling/s1
 50. https://github.com/Deep-Agent/R1-V
 51. https://github.com/StarRing2022/R1-Nature
+52. https://github.com/Unakar/Logic-RL
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
