@@ -562,6 +562,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 52. https://github.com/Unakar/Logic-RL
 53. https://github.com/datawhalechina/unlock-deepseek
 54. https://github.com/GAIR-NLP/LIMO
+55. https://github.com/Zeyi-Lin/easy-r1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
