@@ -202,6 +202,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 10. [AGI-Eval](https://agi-eval.cn/mvp/home)
 11. [EvalScope](https://github.com/modelscope/evalscope): A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
 12. [DeepEval](https://github.com/confident-ai/deepeval): a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems.
+13. [Lighteval](https://github.com/huggingface/lighteval): Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
