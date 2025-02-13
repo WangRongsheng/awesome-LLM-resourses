@@ -569,6 +569,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 57. https://github.com/FanqingM/R1-Multimodal-Journey
 58. https://github.com/dhcode-cpp/X-R1
 59. https://github.com/agentica-project/deepscaler
+60. https://github.com/ZihanWang314/RAGEN
+61. https://github.com/sail-sg/oat-zero
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
