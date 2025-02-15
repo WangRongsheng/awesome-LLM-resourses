@@ -573,6 +573,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 60. https://github.com/ZihanWang314/RAGEN
 61. https://github.com/sail-sg/oat-zero
 62. https://github.com/TideDra/lmm-r1
+63. https://github.com/FlagAI-Open/OpenSeek
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
