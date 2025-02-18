@@ -577,6 +577,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 64. https://github.com/SwanHubX/ascend_r1_turtorial
 65. https://github.com/om-ai-lab/VLM-R1
 66. https://github.com/wizardlancet/diagnosis_zero
+67. https://github.com/lsdefine/simple_GRPO
+68. https://github.com/brendanhogan/DeepSeekRL-Extended
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
