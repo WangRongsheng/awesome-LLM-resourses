@@ -580,6 +580,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 67. https://github.com/lsdefine/simple_GRPO
 68. https://github.com/brendanhogan/DeepSeekRL-Extended
 69. https://github.com/Wang-Xiaodong1899/Open-R1-Video
+70. https://github.com/lsdefine/simple_GRPO
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
