@@ -489,6 +489,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 34. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1)
 35. [KIMI K1.5](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/Kimi_k1.5.pdf)
 36. [Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models](https://arxiv.org/abs/2501.14818)
+37. [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
