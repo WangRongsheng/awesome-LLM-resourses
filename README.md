@@ -588,6 +588,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 73. https://github.com/hiyouga/EasyR1
 74. https://github.com/Fancy-MLLM/R1-Onevision
 75. https://github.com/tulerfeng/Video-R1
+76. https://huggingface.co/qihoo360/TinyR1-32B-Preview
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
