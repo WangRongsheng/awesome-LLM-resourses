@@ -83,6 +83,7 @@
 29. [Bespoke Curator](https://github.com/bespokelabsai/curator): Data Curation for Post-Training & Structured Data Extraction.
 30. [LangKit](https://github.com/whylabs/langkit): An open-source toolkit for monitoring Large Language Models (LLMs). Extracts signals from prompts & responses, ensuring safety & security.
 31. [Curator](https://github.com/bespokelabsai/curator): Synthetic Data curation for post-training and structured data extraction.
+32. [olmOCR](https://github.com/allenai/olmocr): A toolkit for training language models to work with PDF documents in the wild.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
