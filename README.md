@@ -598,6 +598,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 79. https://github.com/yuyq96/R1-Vision
 80. https://github.com/sungatetop/deepseek-r1-vision
 81. https://huggingface.co/qihoo360/Light-R1-32B
+82. https://github.com/Liuziyu77/Visual-RFT
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
