@@ -601,6 +601,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 82. https://github.com/Liuziyu77/Visual-RFT
 83. https://github.com/Mohammadjafari80/GSM8K-RLVR
 84. https://github.com/ModalMinds/MM-EUREKA
+85. https://github.com/joey00072/nanoGRPO
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
