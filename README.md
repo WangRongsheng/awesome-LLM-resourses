@@ -605,6 +605,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 85. https://github.com/joey00072/nanoGRPO
 86. https://github.com/PeterGriffinJin/Search-R1
 87. https://openi.pcl.ac.cn/PCL-Reasoner/GRPO-Training-Suite
+88. https://github.com/dvlab-research/Seg-Zero
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
