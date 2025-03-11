@@ -608,6 +608,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 88. https://github.com/dvlab-research/Seg-Zero
 89. https://github.com/HumanMLLM/R1-Omni
 90. https://github.com/OpenManus/OpenManus-RL
+91. https://arxiv.org/pdf/2503.07536
+92. https://github.com/Osilly/Vision-R1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
