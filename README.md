@@ -610,6 +610,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 90. https://github.com/OpenManus/OpenManus-RL
 91. https://arxiv.org/pdf/2503.07536
 92. https://github.com/Osilly/Vision-R1
+93. https://github.com/LengSicong/MMR1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
