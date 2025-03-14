@@ -496,6 +496,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 36. [Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models](https://arxiv.org/abs/2501.14818)
 37. [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
 38. [Baichuan-M1: Pushing the Medical Capability of Large Language Models](https://arxiv.org/abs/2502.12671)
+39. [Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](https://arxiv.org/abs/2503.04715)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
