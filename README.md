@@ -207,6 +207,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 11. [EvalScope](https://github.com/modelscope/evalscope): A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
 12. [DeepEval](https://github.com/confident-ai/deepeval): a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems.
 13. [Lighteval](https://github.com/huggingface/lighteval): Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends.
+14. [QwQ/eval](https://github.com/QwenLM/QwQ/tree/main/eval): QwQ is the reasoning model series developed by Qwen team, Alibaba Cloud.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
