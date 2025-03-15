@@ -185,6 +185,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 44. [LocalAI](https://github.com/mudler/LocalAI): The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required.
 45. [ktransformers](https://github.com/kvcache-ai/ktransformers): A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations.
 46. [SkyPilot](https://github.com/skypilot-org/skypilot): Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+47. [Chitu](https://github.com/thu-pacman/chitu): High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 
 
 <div align="right">
