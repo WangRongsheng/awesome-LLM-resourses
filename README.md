@@ -616,6 +616,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 92. https://github.com/Osilly/Vision-R1
 93. https://github.com/LengSicong/MMR1
 94. https://github.com/phonism/CP-Zero
+95. https://github.com/SkyworkAI/Skywork-R1V
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
