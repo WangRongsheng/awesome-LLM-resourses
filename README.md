@@ -525,6 +525,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 MCP工具聚合：
 1. [smithery.ai](https://smithery.ai/)
 2. [mcp.so](https://mcp.so/)
+3. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
