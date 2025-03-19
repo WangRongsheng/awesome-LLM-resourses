@@ -520,6 +520,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 ## MCP
 
 1. [MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP](https://www.youtube.com/watch?v=McNRkd5CxFY)
+2. [MCP是什么？为啥是下一代AI标准？MCP原理+开发实战！在Cursor、Claude、Cline中使用MCP，让AI真正自动化！](https://www.youtube.com/watch?v=jGVsLeDxtQY)
 
 MCP工具聚合：
 1. [smithery.ai](https://smithery.ai/)
