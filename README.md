@@ -38,6 +38,7 @@
 - [教程 Tutorial](#教程-Tutorial)
 - [论文 Paper](#论文-Paper)
 - [社区 Community](#社区-Community)
+- [MCP](#MCP)
 - [Open o1](#Open-o1)
 - [Small Language Model](#Small-Language-Model)
 - [Small Vision Language Model](#Small-Vision-Language-Model)
@@ -511,6 +512,18 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 2. [HuggingFace](https://huggingface.co/)
 3. [ModelScope](https://modelscope.cn/)
 4. [WiseModel](https://www.wisemodel.cn/)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## MCP
+
+1. [MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP](https://www.youtube.com/watch?v=McNRkd5CxFY)
+
+MCP工具聚合：
+1. [smithery.ai](https://smithery.ai/)
+2. [mcp.so](https://mcp.so/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
