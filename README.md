@@ -636,6 +636,7 @@ MCP工具聚合：
 96. https://arxiv.org/abs/2503.13939v1
 97. https://github.com/0russwest0/Agent-R1
 98. https://github.com/MetabrainAGI/Awaker2.5-R1
+99. https://github.com/LG-AI-EXAONE/EXAONE-Deep
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
