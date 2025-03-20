@@ -633,6 +633,9 @@ MCP工具聚合：
 93. https://github.com/LengSicong/MMR1
 94. https://github.com/phonism/CP-Zero
 95. https://github.com/SkyworkAI/Skywork-R1V
+96. https://arxiv.org/abs/2503.13939v1
+97. https://github.com/0russwest0/Agent-R1
+98. https://github.com/MetabrainAGI/Awaker2.5-R1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
