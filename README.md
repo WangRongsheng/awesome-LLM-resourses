@@ -638,6 +638,7 @@ MCP工具聚合：
 98. https://github.com/MetabrainAGI/Awaker2.5-R1
 99. https://github.com/LG-AI-EXAONE/EXAONE-Deep
 100. https://github.com/qiufengqijun/open-r1-reprod
+101. https://github.com/SUFE-AIFLM-Lab/Fin-R1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
