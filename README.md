@@ -453,6 +453,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 33. [B站: 毛玉仁](https://space.bilibili.com/3546823125895398)
 34. [AI-Guide-and-Demos](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN)
 35. [cnblog: 第七子](https://www.cnblogs.com/theseventhson)
+36. [Implementation of all RAG techniques in a simpler way.](https://github.com/FareedKhan-dev/all-rag-techniques)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
