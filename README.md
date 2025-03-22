@@ -640,6 +640,8 @@ MCP工具聚合：
 99. https://github.com/LG-AI-EXAONE/EXAONE-Deep
 100. https://github.com/qiufengqijun/open-r1-reprod
 101. https://github.com/SUFE-AIFLM-Lab/Fin-R1
+102. https://github.com/sail-sg/understand-r1-zero
+103. https://github.com/baibizhe/Efficient-R1-VLLM
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
