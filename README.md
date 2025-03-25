@@ -530,6 +530,7 @@ MCP工具聚合：
 1. [smithery.ai](https://smithery.ai/)
 2. [mcp.so](https://mcp.so/)
 3. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+4. [mcp.ad](https://mcp.ad/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
