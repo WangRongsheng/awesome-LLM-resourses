@@ -645,6 +645,7 @@ MCP工具聚合：
 101. https://github.com/SUFE-AIFLM-Lab/Fin-R1
 102. https://github.com/sail-sg/understand-r1-zero
 103. https://github.com/baibizhe/Efficient-R1-VLLM
+104. https://github.com/hkust-nlp/simpleRL-reason
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
