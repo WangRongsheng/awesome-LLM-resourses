@@ -533,6 +533,8 @@ MCP工具聚合：
 4. [mcp.ad](https://mcp.ad/)
 5. [pulsemcp.com](https://www.pulsemcp.com/)
 6. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+7. [glama.ai](https://glama.ai/mcp/servers)
+8. [mcp.composio.dev](https://mcp.composio.dev/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
