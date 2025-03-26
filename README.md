@@ -531,6 +531,8 @@ MCP工具聚合：
 2. [mcp.so](https://mcp.so/)
 3. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 4. [mcp.ad](https://mcp.ad/)
+5. [pulsemcp.com](https://www.pulsemcp.com/)
+6. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
