@@ -504,6 +504,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 38. [Baichuan-M1: Pushing the Medical Capability of Large Language Models](https://arxiv.org/abs/2502.12671)
 39. [Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](https://arxiv.org/abs/2503.04715)
 40. [SkyLadder: Better and Faster Pretraining via Context Window Scheduling](https://arxiv.org/abs/2503.15450)
+41. [Qwen2.5-Omni technical report](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
