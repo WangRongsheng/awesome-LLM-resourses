@@ -507,6 +507,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 40. [SkyLadder: Better and Faster Pretraining via Context Window Scheduling](https://arxiv.org/abs/2503.15450)
 41. [Qwen2.5-Omni technical report](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf)
 42. [Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs](https://arxiv.org/abs/2503.05139)
+43. [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
