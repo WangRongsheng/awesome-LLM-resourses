@@ -654,6 +654,7 @@ MCP工具聚合：
 102. https://github.com/sail-sg/understand-r1-zero
 103. https://github.com/baibizhe/Efficient-R1-VLLM
 104. https://github.com/hkust-nlp/simpleRL-reason
+105. https://arxiv.org/abs/2502.19655
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
