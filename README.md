@@ -655,6 +655,7 @@ MCP工具聚合：
 103. https://github.com/baibizhe/Efficient-R1-VLLM
 104. https://github.com/hkust-nlp/simpleRL-reason
 105. https://arxiv.org/abs/2502.19655
+106. https://arxiv.org/abs/2503.21620v1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
