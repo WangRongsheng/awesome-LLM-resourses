@@ -656,6 +656,7 @@ MCP工具聚合：
 104. https://github.com/hkust-nlp/simpleRL-reason
 105. https://arxiv.org/abs/2502.19655
 106. https://arxiv.org/abs/2503.21620v1
+107. https://arxiv.org/abs/2503.16081
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
