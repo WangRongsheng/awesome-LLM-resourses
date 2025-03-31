@@ -659,6 +659,8 @@ MCP工具聚合：
 107. https://arxiv.org/abs/2503.16081
 108. https://github.com/ShadeCloak/ADORA
 109. https://github.com/appletea233/Temporal-R1
+110. https://github.com/inclusionAI/AReaL
+111. https://github.com/lzhxmu/CPPO
 
 
 <div align="right">
