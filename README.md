@@ -658,6 +658,8 @@ MCP工具聚合：
 106. https://arxiv.org/abs/2503.21620v1
 107. https://arxiv.org/abs/2503.16081
 108. https://github.com/ShadeCloak/ADORA
+109. https://github.com/appletea233/Temporal-R1
+
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
