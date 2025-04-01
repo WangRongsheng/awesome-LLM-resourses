@@ -541,6 +541,7 @@ MCP工具聚合：
 6. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 7. [glama.ai](https://glama.ai/mcp/servers)
 8. [mcp.composio.dev](https://mcp.composio.dev/)
+9. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
