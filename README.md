@@ -505,6 +505,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 41. [Qwen2.5-Omni technical report](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf)
 42. [Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs](https://arxiv.org/abs/2503.05139)
 43. [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)
+44. [Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources](https://arxiv.org/abs/2504.00595)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
