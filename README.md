@@ -660,6 +660,7 @@ MCP工具聚合：
 109. https://github.com/appletea233/Temporal-R1
 110. https://github.com/inclusionAI/AReaL
 111. https://github.com/lzhxmu/CPPO
+112. https://arxiv.org/abs/2503.23829
 
 
 <div align="right">
