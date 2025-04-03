@@ -539,6 +539,7 @@ MCP工具聚合：
 7. [glama.ai](https://glama.ai/mcp/servers)
 8. [mcp.composio.dev](https://mcp.composio.dev/)
 9. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
+10. [mcpo](https://github.com/open-webui/mcpo)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
