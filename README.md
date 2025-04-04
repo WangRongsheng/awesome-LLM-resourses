@@ -540,6 +540,7 @@ MCP工具聚合：
 8. [mcp.composio.dev](https://mcp.composio.dev/)
 9. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 10. [mcpo](https://github.com/open-webui/mcpo)
+11. [FastMCP](https://github.com/jlowin/fastmcp)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
