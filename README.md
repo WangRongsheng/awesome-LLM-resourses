@@ -542,6 +542,7 @@ MCP工具聚合：
 9. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list)
 10. [mcpo](https://github.com/open-webui/mcpo)
 11. [FastMCP](https://github.com/jlowin/fastmcp)
+12. [sharemcp.cn](https://sharemcp.cn/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
