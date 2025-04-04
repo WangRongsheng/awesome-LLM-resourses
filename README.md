@@ -209,6 +209,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 14. [QwQ/eval](https://github.com/QwenLM/QwQ/tree/main/eval): QwQ is the reasoning model series developed by Qwen team, Alibaba Cloud.
 15. [Evalchemy](https://github.com/mlfoundations/evalchemy): A unified and easy-to-use toolkit for evaluating post-trained language models.
 16. [MathArena](https://github.com/eth-sri/matharena): Evaluation of LLMs on latest math competitions.
+17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 
 `LLM API 服务平台`：
 1. [Groq](https://groq.com/)
