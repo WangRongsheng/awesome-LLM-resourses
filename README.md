@@ -668,6 +668,7 @@ MCP工具聚合：
 111. https://github.com/lzhxmu/CPPO
 112. https://arxiv.org/abs/2503.23829
 113. https://github.com/TencentARC/SEED-Bench-R1
+114. https://github.com/McGill-NLP/nano-aha-moment
 
 
 <div align="right">
