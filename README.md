@@ -543,6 +543,7 @@ MCP工具聚合：
 10. [mcpo](https://github.com/open-webui/mcpo)
 11. [FastMCP](https://github.com/jlowin/fastmcp)
 12. [sharemcp.cn](https://sharemcp.cn/)
+13. [mcpstore.co](https://mcpstore.co/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
