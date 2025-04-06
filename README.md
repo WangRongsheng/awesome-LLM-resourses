@@ -669,6 +669,7 @@ MCP工具聚合：
 112. https://arxiv.org/abs/2503.23829
 113. https://github.com/TencentARC/SEED-Bench-R1
 114. https://github.com/McGill-NLP/nano-aha-moment
+115. https://github.com/VLM-RL/Ocean-R1
 
 
 <div align="right">
