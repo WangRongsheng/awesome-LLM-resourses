@@ -20,23 +20,23 @@
 
 #### Contents
 
-- [数据 Data](#数据-Data)
-- [微调 Fine-Tuning](#微调-Fine-Tuning)
-- [推理 Inference](#推理-Inference)
-- [评估 Evaluation](#评估-Evaluation)
-- [体验 Usage](#体验-Usage)
-- [知识库 RAG](#知识库-RAG)
-- [智能体 Agents](#智能体-Agents)
-- [搜索 Search](#搜索-Search)
-- [书籍 Book](#书籍-Book)
-- [课程 Course](#课程-Course)
-- [教程 Tutorial](#教程-Tutorial)
-- [论文 Paper](#论文-Paper)
-- [社区 Community](#社区-Community)
-- [MCP](#MCP)
-- [Open o1](#Open-o1)
-- [Small Language Model](#Small-Language-Model)
-- [Small Vision Language Model](#Small-Vision-Language-Model)
+- [数据 Data](#数据-data)
+- [微调 Fine-Tuning](#微调-fine-tuning)
+- [推理 Inference](#推理-inference)
+- [评估 Evaluation](#评估-evaluation)
+- [体验 Usage](#体验-usage)
+- [知识库 RAG](#知识库-rag)
+- [智能体 Agents](#智能体-agents)
+- [搜索 Search](#搜索-search)
+- [书籍 Book](#书籍-book)
+- [课程 Course](#课程-course)
+- [教程 Tutorial](#教程-tutorial)
+- [论文 Paper](#论文-paper)
+- [社区 Community](#社区-community)
+- [MCP](#mcp)
+- [Open o1](#open-o1)
+- [Small Language Model](#small-language-model)
+- [Small Vision Language Model](#small-vision-language-model)
 - [Tips](#tips)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
@@ -315,6 +315,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
 29. [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents.
 30. [smolagents](https://github.com/huggingface/smolagents): a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+31. [MastraAI](https://github.com/mastra-ai/mastra): Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
