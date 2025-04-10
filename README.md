@@ -671,6 +671,7 @@ MCP工具聚合：
 114. https://github.com/McGill-NLP/nano-aha-moment
 115. https://github.com/VLM-RL/Ocean-R1
 116. https://github.com/OpenGVLab/VideoChat-R1
+117. https://github.com/ByteDance-Seed/Seed-Thinking-v1.5
 
 
 <div align="right">
