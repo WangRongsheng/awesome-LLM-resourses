@@ -670,6 +670,7 @@ MCP工具聚合：
 113. https://github.com/TencentARC/SEED-Bench-R1
 114. https://github.com/McGill-NLP/nano-aha-moment
 115. https://github.com/VLM-RL/Ocean-R1
+116. https://github.com/OpenGVLab/VideoChat-R1
 
 
 <div align="right">
