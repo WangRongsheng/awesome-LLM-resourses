@@ -508,6 +508,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 42. [Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs](https://arxiv.org/abs/2503.05139)
 43. [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)
 44. [Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources](https://arxiv.org/abs/2504.00595)
+45. [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -544,6 +545,7 @@ MCP工具聚合：
 11. [FastMCP](https://github.com/jlowin/fastmcp)
 12. [sharemcp.cn](https://sharemcp.cn/)
 13. [mcpstore.co](https://mcpstore.co/)
+14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -672,6 +674,8 @@ MCP工具聚合：
 115. https://github.com/VLM-RL/Ocean-R1
 116. https://github.com/OpenGVLab/VideoChat-R1
 117. https://github.com/ByteDance-Seed/Seed-Thinking-v1.5
+118. https://github.com/SkyworkAI/Skywork-OR1
+119. https://github.com/MoonshotAI/Kimi-VL
 
 
 <div align="right">
