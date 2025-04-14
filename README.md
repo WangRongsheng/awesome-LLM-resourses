@@ -676,6 +676,7 @@ MCP工具聚合：
 117. https://github.com/ByteDance-Seed/Seed-Thinking-v1.5
 118. https://github.com/SkyworkAI/Skywork-OR1
 119. https://github.com/MoonshotAI/Kimi-VL
+120. https://arxiv.org/abs/2504.08600
 
 
 <div align="right">
