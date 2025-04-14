@@ -546,6 +546,7 @@ MCP工具聚合：
 12. [sharemcp.cn](https://sharemcp.cn/)
 13. [mcpstore.co](https://mcpstore.co/)
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
+15. [modelscope/mcp](https://modelscope.cn/mcp)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
