@@ -678,6 +678,7 @@ MCP工具聚合：
 118. https://github.com/SkyworkAI/Skywork-OR1
 119. https://github.com/MoonshotAI/Kimi-VL
 120. https://arxiv.org/abs/2504.08600
+121. https://github.com/ZhangXJ199/TinyLLaVA-Video-R1
 
 
 <div align="right">
