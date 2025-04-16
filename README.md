@@ -237,6 +237,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [林哥的大模型野榜](https://lyihub.com/)
 8. [OpenRouter](https://openrouter.ai/)
 9. [AnyChat](https://huggingface.co/spaces/akhaliq/anychat)
+10. [智谱Z.AI](https://chat.z.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
