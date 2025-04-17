@@ -683,7 +683,7 @@ MCP工具聚合：
 119. https://github.com/MoonshotAI/Kimi-VL
 120. https://arxiv.org/abs/2504.08600
 121. https://github.com/ZhangXJ199/TinyLLaVA-Video-R1
-
+122. https://arxiv.org/abs/2504.11914
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
