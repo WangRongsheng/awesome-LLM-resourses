@@ -548,6 +548,7 @@ MCP工具聚合：
 13. [mcpstore.co](https://mcpstore.co/)
 14. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp)
 15. [modelscope/mcp](https://modelscope.cn/mcp)
+16. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
