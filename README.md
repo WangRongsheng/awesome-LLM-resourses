@@ -317,6 +317,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 28. [PydanticAI](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs.
 29. [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents.
 30. [smolagents](https://github.com/huggingface/smolagents): a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+31. [Cooragent](https://github.com/LeapLabTHU/cooragent): Cooragent is an AI agent collaboration community.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
