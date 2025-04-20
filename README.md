@@ -686,6 +686,8 @@ MCP工具聚合：
 121. https://github.com/ZhangXJ199/TinyLLaVA-Video-R1
 122. https://arxiv.org/abs/2504.11914
 123. https://github.com/policy-gradient/GRPO-Zero
+124. https://github.com/linkangheng/PR1
+125. https://github.com/jiangxinke/Agentic-RAG-R1
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
