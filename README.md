@@ -689,6 +689,7 @@ MCP工具聚合：
 123. https://github.com/policy-gradient/GRPO-Zero
 124. https://github.com/linkangheng/PR1
 125. https://github.com/jiangxinke/Agentic-RAG-R1
+126. https://github.com/shangshang-wang/Tina
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
