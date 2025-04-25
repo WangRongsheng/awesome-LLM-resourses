@@ -693,6 +693,7 @@ MCP工具聚合：
 125. https://github.com/jiangxinke/Agentic-RAG-R1
 126. https://github.com/shangshang-wang/Tina
 127. https://github.com/aliyun/qwen-dianjin
+128. https://github.com/RAGEN-AI/RAGEN
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
