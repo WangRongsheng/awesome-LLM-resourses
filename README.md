@@ -691,6 +691,7 @@ MCP工具聚合：
 124. https://github.com/linkangheng/PR1
 125. https://github.com/jiangxinke/Agentic-RAG-R1
 126. https://github.com/shangshang-wang/Tina
+127. https://github.com/aliyun/qwen-dianjin
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
