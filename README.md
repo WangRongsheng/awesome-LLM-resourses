@@ -417,6 +417,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 48. [HuggingFace Learn](https://huggingface.co/learn)
 49. [Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 50. [LLM技术科普](https://github.com/karminski/one-small-step)
+51. [CS25: Transformers United V5](https://web.stanford.edu/class/cs25/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
