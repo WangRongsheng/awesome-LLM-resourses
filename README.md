@@ -517,6 +517,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 43. [Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)
 44. [Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources](https://arxiv.org/abs/2504.00595)
 45. [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866)
+46. [MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -695,6 +696,7 @@ MCP工具聚合：
 126. https://github.com/shangshang-wang/Tina
 127. https://github.com/aliyun/qwen-dianjin
 128. https://github.com/RAGEN-AI/RAGEN
+129. https://github.com/XiaomiMiMo/MiMo
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
