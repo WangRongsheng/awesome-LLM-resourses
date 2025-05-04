@@ -697,6 +697,7 @@ MCP工具聚合：
 127. https://github.com/aliyun/qwen-dianjin
 128. https://github.com/RAGEN-AI/RAGEN
 129. https://github.com/XiaomiMiMo/MiMo
+130. https://github.com/yuanzhoulvpi2017/nano_rl
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
