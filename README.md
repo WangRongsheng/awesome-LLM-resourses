@@ -326,7 +326,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
 
-## 智能体 Agents
+## 代码 Coding
 
 1. [Cloi CLI](https://github.com/cloi-ai/cloi): Local debugging agent that runs in your terminal.
 2. [v0](https://v0.dev/)
