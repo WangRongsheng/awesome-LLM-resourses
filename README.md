@@ -535,6 +535,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 44. [Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources](https://arxiv.org/abs/2504.00595)
 45. [Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs](https://arxiv.org/abs/2504.07866)
 46. [MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf)
+47. [Phi-4 Technical Report](https://arxiv.org/abs/2412.08905)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
