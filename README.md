@@ -27,6 +27,7 @@
 - [体验 Usage](#体验-Usage)
 - [知识库 RAG](#知识库-RAG)
 - [智能体 Agents](#智能体-Agents)
+- [代码 Coding](#代码-Coding)
 - [搜索 Search](#搜索-Search)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
@@ -320,6 +321,22 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 31. [Cooragent](https://github.com/LeapLabTHU/cooragent): Cooragent is an AI agent collaboration community.
 32. [Agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 33. [Suna](https://github.com/kortix-ai/suna): Open Source Generalist AI Agent.
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 智能体 Agents
+
+1. [Cloi CLI](https://github.com/cloi-ai/cloi): Local debugging agent that runs in your terminal.
+2. [v0](https://v0.dev/)
+3. [Blot.new](https://bolt.new/)
+4. [Cursor](https://www.cursor.com/)
+5. [Windsurf](https://codeium.com/windsurf)
+6. [cline](https://github.com/cline/cline)
+7. [Trae](https://www.trae.ai/)
+8. [MGX](https://mgx.dev/)
+9. [Devin](https://devin.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
