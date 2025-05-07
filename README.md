@@ -761,6 +761,7 @@ MCP工具聚合：
 7. https://github.com/ZhangXJ199/TinyLLaVA-Video
 8. https://github.com/Emericen/tiny-qwen
 9. https://github.com/merveenoyan/smol-vision
+10. https://github.com/huggingface/nanoVLM
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
