@@ -15,7 +15,7 @@
 </details>
 
 <p align="center">
-  <a href="https://www.wangrs.site/awesome-LLM-resourses/">[在线阅读]</a>
+  <a href="https://wangrongsheng.github.io/awesome-LLM-resources/">[在线阅读]</a>
 </p>
 
 #### Contents
