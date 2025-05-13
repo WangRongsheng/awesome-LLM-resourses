@@ -539,6 +539,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 46. [MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining](https://github.com/XiaomiMiMo/MiMo/blob/main/MiMo-7B-Technical-Report.pdf)
 47. [Phi-4 Technical Report](https://arxiv.org/abs/2412.08905)
 48. [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949)
+49. [Qwen3 Technical Report](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
