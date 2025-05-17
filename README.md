@@ -349,6 +349,9 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 
 #### 模型
 
+> [!NOTE]
+> 🤝[Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)
+
 1. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
 2. [CogVideo](https://github.com/THUDM/CogVideo)
 3. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
