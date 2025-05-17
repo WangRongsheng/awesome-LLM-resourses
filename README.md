@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wangrongsheng-awesome-llm-resources-badge.png)](https://mseep.ai/app/wangrongsheng-awesome-llm-resources)
+
 ![](./assets/logo2.png)
 
 <p align="center">全世界最好的大语言模型资源汇总 持续更新</p>
