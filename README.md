@@ -28,6 +28,7 @@
 - [知识库 RAG](#知识库-RAG)
 - [智能体 Agents](#智能体-Agents)
 - [代码 Coding](#代码-Coding)
+- [视频 Video](#视频-Video)
 - [搜索 Search](#搜索-Search)
 - [书籍 Book](#书籍-Book)
 - [课程 Course](#课程-Course)
@@ -339,6 +340,40 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [Trae](https://www.trae.ai/)
 8. [MGX](https://mgx.dev/)
 9. [Devin](https://devin.ai/)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+## 视频 Video
+
+#### 模型
+
+1. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
+2. [CogVideo](https://github.com/THUDM/CogVideo)
+3. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+4. [Open-Sora](https://github.com/hpcaitech/Open-Sora)
+5. [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+6. [LTX-Video](https://github.com/Lightricks/LTX-Video)
+7. [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V)
+8. [Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) `Editing`
+9. [Wan2.1-VACE](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B) `Editing`
+10. [ICEdit](https://github.com/River-Zhang/ICEdit) `Editing`
+11. [mochi-1-preview](https://huggingface.co/genmo/mochi-1-preview)
+12. [Wan2.1-Fun](https://huggingface.co/collections/alibaba-pai/wan21-fun-v11-680f514c89fe7b4df9d44f17)
+13. [Wan2.1-FLF2V](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P) `首尾帧`
+14. [MAGI-1](https://github.com/SandAI-org/MAGI-1) `自回归模型`
+
+#### 训练
+
+- https://github.com/hao-ai-lab/FastVideo
+- https://github.com/tdrussell/diffusion-pipe
+- https://github.com/VideoVerses/VideoTuna
+- https://github.com/modelscope/DiffSynth-Studio
+- https://github.com/huggingface/diffusers
+- https://github.com/kohya-ss/musubi-tuner
+- https://github.com/spacepxl/HunyuanVideo-Training
+- https://github.com/Tele-AI/TeleTron
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
