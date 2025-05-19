@@ -759,6 +759,7 @@ MCP工具聚合：
 129. https://github.com/XiaomiMiMo/MiMo
 130. https://github.com/yuanzhoulvpi2017/nano_rl
 131. https://huggingface.co/a-m-team/AM-Thinking-v1
+132. https://huggingface.co/Intelligent-Internet/II-Medical-8B
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
