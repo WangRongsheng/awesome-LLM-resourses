@@ -225,6 +225,8 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 7. [DeerAPI](https://www.deerapi.com/)
 8. [Qwen-Chat](https://chat.qwenlm.ai/)
 9. [DeepSeek-v3](https://www.deepseek.com/)
+10. [WaveSpeed](https://wavespeed.ai/) `视频生成`
+11. [OpenRouter](https://openrouter.ai/)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
