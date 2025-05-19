@@ -326,6 +326,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 32. [Agno](https://github.com/agno-agi/agno): Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 33. [Suna](https://github.com/kortix-ai/suna): Open Source Generalist AI Agent.
 34. [rowboat](https://github.com/rowboatlabs/rowboat): Let AI build multi-agent workflows for you in minutes.
+35. [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): Building a Self-Evolving Ecosystem of AI Agents
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
