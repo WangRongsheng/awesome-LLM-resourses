@@ -84,6 +84,7 @@
 32. [olmOCR](https://github.com/allenai/olmocr): A toolkit for training language models to work with PDF documents in the wild.
 33. [Easy Dataset](https://github.com/ConardLi/easy-dataset): A powerful tool for creating fine-tuning datasets for LLM.
 34. [BabelDOC](https://github.com/funstory-ai/BabelDOC): PDF scientific paper translation and bilingual comparison library.
+35. [Dolphin](https://github.com/bytedance/Dolphin): Document Image Parsing via Heterogeneous Anchor Prompting.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
